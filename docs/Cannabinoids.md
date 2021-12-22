@@ -360,5 +360,4 @@ A list of Cannabinoid Analytes for use in interoperability.
     "category": "cannabinoid",
     "cas_rn": "25555-57-1"
 }
-
-----------------------------------------```
+```
