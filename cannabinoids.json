@@ -94,10 +94,11 @@
     "uuid": "5881991d-6bd3-4502-8556-dec52fa88691",
     "scientific_name": "delta-8-tetrahydrocannabivarin",
     "common_names": [
-      "d8-thcv"
+      "d8-thcv",
+      "propyl-delta(8)-tetrahydrocannabinol"
     ],
-    "category": "unknown",
-    "cas_rn": null
+    "category": "cannabinoid",
+    "cas_rn": "31262-38-1"
   },
   {
     "ulid": "018NY6XC00LMEXWB3ENZ1MK7R4",
