@@ -227,7 +227,7 @@ A list of Cannabinoid Analytes for use in interoperability.
 * Scientific Name: `delta-8-tetrahydrocannabivarin`  
 * Common Names: `d8-thcv`  
 * Category: `cannabinoid`  
-* CAS RN: `null`  
+* CAS RN: `31262-38-1`  
 
 ```json
 {
@@ -235,10 +235,11 @@ A list of Cannabinoid Analytes for use in interoperability.
     "uuid": "5881991d-6bd3-4502-8556-dec52fa88691",
     "scientific_name": "delta-8-tetrahydrocannabivarin",
     "common_names": [
-        "d8-thcv"
+        "d8-thcv",
+        "propyl-delta(8)-tetrahydrocannabinol"
     ],
-    "category": "unknown",
-    "cas_rn": null
+    "category": "cannabinoid",
+    "cas_rn": "31262-38-1"
 }
 ```
 
