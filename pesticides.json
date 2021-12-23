@@ -380,26 +380,6 @@
     "cas_rn": "52645-53-1"
   },
   {
-    "ulid": "01FQFG9EJC2Z0EFM33WDMPDETE",
-    "uuid": "2ce005dd-0da0-4a3b-94ca-271ddb4ac32d",
-    "scientific_name": "permethrin(cis)",
-    "common_names": [
-      "permethrin(cis)"
-    ],
-    "category": "pesticide",
-    "cas_rn": "52645-53-1"
-  },
-  {
-    "ulid": "01FQFG9EJC2Z0EFM33WDMPDETF",
-    "uuid": "db9f0536-08ee-4bb0-944b-aadac24e879e",
-    "scientific_name": "permethrin(trans)",
-    "common_names": [
-      "permethrin(trans)"
-    ],
-    "category": "pesticide",
-    "cas_rn": "52645-53-2"
-  },
-  {
     "ulid": "01FQFG9EJC2Z0EFM33WDMPDETG",
     "uuid": "f590e1a6-13d5-4693-9a6c-3dfa05fe14be",
     "scientific_name": "permethrins",
