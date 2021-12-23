@@ -170,16 +170,6 @@
     "cas_rn": "1139-30-6"
   },
   {
-    "ulid": "01FQFG9EJB2ZNCCGA3W92QF336",
-    "uuid": "0164749a-1748-4aac-a383-2a40301d42c4",
-    "scientific_name": "caryophyllene oxide",
-    "common_names": [
-      "caryophylleneoxide"
-    ],
-    "category": "terpene",
-    "cas_rn": "1139-30-6"
-  },
-  {
     "ulid": "01FQFG9EJC2Z0EFM33WDMPDEVQ",
     "uuid": "80c77935-0d13-4d9f-ad33-f91888d8d5a8",
     "scientific_name": "cedrol",
