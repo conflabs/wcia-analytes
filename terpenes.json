@@ -350,16 +350,6 @@
     "cas_rn": "19888-34-7"
   },
   {
-    "ulid": "01FQFG9EJB2ZNCCGA3W92QF349",
-    "uuid": "c22a5c77-4533-41b6-a13f-3fec146dee5a",
-    "scientific_name": "iso-pulegol",
-    "common_names": [
-      "iso-pulegol"
-    ],
-    "category": "terpene",
-    "cas_rn": "89-79-2"
-  },
-  {
     "ulid": "01FQFG9EJB2ZNCCGA3W92QF34B",
     "uuid": "0435c46d-bd0b-4ba9-bae9-1fb806c41592",
     "scientific_name": "isopulegol",
