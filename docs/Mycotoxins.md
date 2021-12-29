@@ -5,7 +5,7 @@ A list of Mycotoxin Analytes for use in interoperability.
 
 ## aflatoxin g2
 
-ULID: `01FQFG9EJAGYQJ66VK3MZ4P4PM`  
+ULID: `01EDPTB5B0PPN4WPYRMZD09BWY`  
 UUID: `39cabc19-a8a7-455f-80fd-42b955dd707e`  
 Scientific Name: `aflatoxin g2`  
 Common Names: `aflatoxin g2`  
@@ -14,7 +14,7 @@ CAS RN: `7241-98-7`
 
 ```JSON
 {
-    "ulid": "01FQFG9EJAGYQJ66VK3MZ4P4PM",
+    "ulid": "01EDPTB5B0PPN4WPYRMZD09BWY",
     "uuid": "39cabc19-a8a7-455f-80fd-42b955dd707e",
     "scientific_name": "aflatoxin g2",
     "common_names": [
@@ -29,7 +29,7 @@ CAS RN: `7241-98-7`
 
 ## aflatoxin g1
 
-ULID: `01FQFG9EJAGYQJ66VK3MZ4P4PP`  
+ULID: `01EDPTB1FYFSFB0NXEFCRF5E72`  
 UUID: `c6b47cf3-9b88-4520-8719-7e79201a3f0d`  
 Scientific Name: `aflatoxin g1`  
 Common Names: `aflatoxin g1`  
@@ -38,7 +38,7 @@ CAS RN: `1165-39-5`
 
 ```JSON
 {
-    "ulid": "01FQFG9EJAGYQJ66VK3MZ4P4PP",
+    "ulid": "01EDPTB1FYFSFB0NXEFCRF5E72",
     "uuid": "c6b47cf3-9b88-4520-8719-7e79201a3f0d",
     "scientific_name": "aflatoxin g1",
     "common_names": [
@@ -53,7 +53,7 @@ CAS RN: `1165-39-5`
 
 ## ochratoxin a
 
-ULID: `01FQFG9EJC2Z0EFM33WDMPDEVV`  
+ULID: `018NY6XC00LMK15566W1G0ZH5X`  
 UUID: `31bbafbc-b8de-4927-a4ef-db4a1024b4cc`  
 Scientific Name: `ochratoxin a`  
 Common Names: `ochratoxin a`  
@@ -62,7 +62,7 @@ CAS RN: `303-47-9`
 
 ```JSON
 {
-    "ulid": "01FQFG9EJC2Z0EFM33WDMPDEVV",
+    "ulid": "018NY6XC00LMK15566W1G0ZH5X",
     "uuid": "31bbafbc-b8de-4927-a4ef-db4a1024b4cc",
     "scientific_name": "ochratoxin a",
     "common_names": [
@@ -77,7 +77,7 @@ CAS RN: `303-47-9`
 
 ## aflatoxin b2
 
-ULID: `01FQFG9EJC2Z0EFM33WDMPDEVW`  
+ULID: `01EDPTB0J14D79E5FDVRVM290N`  
 UUID: `bf382589-1ea6-4095-b0b1-37342c0405c2`  
 Scientific Name: `aflatoxin b2`  
 Common Names: `aflatoxin b2`  
@@ -86,7 +86,7 @@ CAS RN: `7220-81-7`
 
 ```JSON
 {
-    "ulid": "01FQFG9EJC2Z0EFM33WDMPDEVW",
+    "ulid": "01EDPTB0J14D79E5FDVRVM290N",
     "uuid": "bf382589-1ea6-4095-b0b1-37342c0405c2",
     "scientific_name": "aflatoxin b2",
     "common_names": [
@@ -101,7 +101,7 @@ CAS RN: `7220-81-7`
 
 ## aflatoxin b1
 
-ULID: `01FQFG9EJC2Z0EFM33WDMPDEVX`  
+ULID: `01EDPTAXEXNAN89RM5AN0VVTP3`  
 UUID: `645aa8cf-cc3a-4ba2-be75-82352d6a7667`  
 Scientific Name: `aflatoxin b1`  
 Common Names: `aflatoxin b1`  
@@ -110,7 +110,7 @@ CAS RN: `1162-65-8`
 
 ```JSON
 {
-    "ulid": "01FQFG9EJC2Z0EFM33WDMPDEVX",
+    "ulid": "01EDPTAXEXNAN89RM5AN0VVTP3",
     "uuid": "645aa8cf-cc3a-4ba2-be75-82352d6a7667",
     "scientific_name": "aflatoxin b1",
     "common_names": [
