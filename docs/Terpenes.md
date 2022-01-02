@@ -411,30 +411,6 @@ A list of Terpene Analytes for use in interoperability.
 
 ----------------------------------------
 
-## caryophyllene oxide
-
-* ULID: `01FQFG9EJB2ZNCCGA3W92QF336`  
-* UUID: `0164749a-1748-4aac-a383-2a40301d42c4`  
-* Scientific Name: `caryophyllene oxide`  
-* Common Names: `caryophylleneoxide`  
-* Category: `terpene`  
-* CAS RN: `1139-30-6`  
-
-```json
-{
-  "ulid": "01FQFG9EJB2ZNCCGA3W92QF336",
-  "uuid": "0164749a-1748-4aac-a383-2a40301d42c4",
-  "scientific_name": "caryophyllene oxide",
-  "common_names": [
-    "caryophylleneoxide"
-  ],
-  "category": "terpene",
-  "cas_rn": "1139-30-6"
-}
-```
-
-----------------------------------------
-
 ## cedrol
 
 * ULID: `01FQFG9EJC2Z0EFM33WDMPDEVQ`  
