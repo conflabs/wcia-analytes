@@ -867,30 +867,6 @@ A list of Terpene Analytes for use in interoperability.
 
 ----------------------------------------
 
-## isopulegol
-
-* ULID: `01FQFG9EJB2ZNCCGA3W92QF34B`  
-* UUID: `0435c46d-bd0b-4ba9-bae9-1fb806c41592`  
-* Scientific Name: `isopulegol`  
-* Common Names: `isopulegol`  
-* Category: `terpene`  
-* CAS RN: `89-79-2`  
-
-```json
-{
-  "ulid": "01FQFG9EJB2ZNCCGA3W92QF34B",
-  "uuid": "0435c46d-bd0b-4ba9-bae9-1fb806c41592",
-  "scientific_name": "isopulegol",
-  "common_names": [
-    "isopulegol"
-  ],
-  "category": "terpene",
-  "cas_rn": "89-79-2"
-}
-```
-
-----------------------------------------
-
 ## limonene
 
 * ULID: `01FQFG9EJB2ZNCCGA3W92QF34C`  
