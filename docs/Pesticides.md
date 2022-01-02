@@ -915,54 +915,6 @@ A list of Pesticide Analytes for use in interoperability.
 
 ----------------------------------------
 
-## permethrin(cis)
-
-* ULID: `01FQFG9EJC2Z0EFM33WDMPDETE`  
-* UUID: `2ce005dd-0da0-4a3b-94ca-271ddb4ac32d`  
-* Scientific Name: `permethrin(cis)`  
-* Common Names: `permethrin(cis)`  
-* Category: `pesticide`  
-* CAS RN: `52645-53-1`  
-
-```json
-{
-  "ulid": "01FQFG9EJC2Z0EFM33WDMPDETE",
-  "uuid": "2ce005dd-0da0-4a3b-94ca-271ddb4ac32d",
-  "scientific_name": "permethrin(cis)",
-  "common_names": [
-    "permethrin(cis)"
-  ],
-  "category": "pesticide",
-  "cas_rn": "52645-53-1"
-}
-```
-
-----------------------------------------
-
-## permethrin(trans)
-
-* ULID: `01FQFG9EJC2Z0EFM33WDMPDETF`  
-* UUID: `db9f0536-08ee-4bb0-944b-aadac24e879e`  
-* Scientific Name: `permethrin(trans)`  
-* Common Names: `permethrin(trans)`  
-* Category: `pesticide`  
-* CAS RN: `52645-53-2`  
-
-```json
-{
-  "ulid": "01FQFG9EJC2Z0EFM33WDMPDETF",
-  "uuid": "db9f0536-08ee-4bb0-944b-aadac24e879e",
-  "scientific_name": "permethrin(trans)",
-  "common_names": [
-    "permethrin(trans)"
-  ],
-  "category": "pesticide",
-  "cas_rn": "52645-53-2"
-}
-```
-
-----------------------------------------
-
 ## permethrins
 
 * ULID: `01FQFG9EJC2Z0EFM33WDMPDETG`  
