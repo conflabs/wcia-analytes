@@ -1,0 +1,2032 @@
+[
+  {
+    "ulid": "01FQFG9EJB2ZNCCGA3W92QF32M",
+    "uuid": "ddea7c02-180a-44d2-8e7d-a14bc05b1cfc",
+    "scientific_name": "2,2-dimethyl-butane",
+    "common_names": [
+      "2,2-dimethyl-butane"
+    ],
+    "category": "solvent",
+    "cas_rn": "75-83-2"
+  },
+  {
+    "ulid": "01FQFG9EJB2ZNCCGA3W92QF32J",
+    "uuid": "2d1cfab9-6a68-48e5-af8c-f1755c57a163",
+    "scientific_name": "2-methyl-pentane",
+    "common_names": [
+      "2-methyl-pentane"
+    ],
+    "category": "solvent",
+    "cas_rn": "107-83-5"
+  },
+  {
+    "ulid": "01FQFG9EJB2ZNCCGA3W92QF32K",
+    "uuid": "0db5787d-c0e1-44e2-a610-757861729528",
+    "scientific_name": "3-methyl-pentane",
+    "common_names": [
+      "3-methyl-pentane"
+    ],
+    "category": "solvent",
+    "cas_rn": "96-14-0"
+  },
+  {
+    "ulid": "01FQFG9EJAGYQJ66VK3MZ4P4PG",
+    "uuid": "c5609a38-2857-4eb2-b668-5c36903c92b5",
+    "scientific_name": "abamectin b1a",
+    "common_names": [
+      "abamectin b1a"
+    ],
+    "category": "pesticide",
+    "cas_rn": "71751-41-2"
+  },
+  {
+    "ulid": "01FQFG9EJB2ZNCCGA3W92QF32P",
+    "uuid": "5f5e1af9-5635-46c3-8449-09a26079a36c",
+    "scientific_name": "abamectin b1b",
+    "common_names": [
+      "abamectin b1b"
+    ],
+    "category": "pesticide",
+    "cas_rn": "71751-41-3"
+  },
+  {
+    "ulid": "01FQFG9EJB2ZNCCGA3W92QF32Q",
+    "uuid": "2827020a-0243-42af-9783-b803799c838d",
+    "scientific_name": "acephate",
+    "common_names": [
+      "acephate"
+    ],
+    "category": "pesticide",
+    "cas_rn": "30560-19-1"
+  },
+  {
+    "ulid": "01FQFG9EJAGYQJ66VK3MZ4P4PJ",
+    "uuid": "d7987bab-36a5-4f14-a884-2c6b155aabde",
+    "scientific_name": "acequinocyl",
+    "common_names": [
+      "acequinocyl"
+    ],
+    "category": "pesticide",
+    "cas_rn": "57960-19-7"
+  },
+  {
+    "ulid": "01FQFG9EJC2Z0EFM33WDMPDEVZ",
+    "uuid": "d190d3a3-4c10-4476-ab65-1f481d1b630f",
+    "scientific_name": "acetamiprid",
+    "common_names": [
+      "acetamiprid"
+    ],
+    "category": "pesticide",
+    "cas_rn": "135410-20-7"
+  },
+  {
+    "ulid": "01FQFG9EJB2ZNCCGA3W92QF338",
+    "uuid": "ae321641-63c8-4c38-b851-aaf1433499bb",
+    "scientific_name": "acetone",
+    "common_names": [
+      "acetone"
+    ],
+    "category": "solvent",
+    "cas_rn": "67-64-1"
+  },
+  {
+    "ulid": "018NY6XC00LM638QCGB50ZKYKJ",
+    "uuid": "a7c574c5-33a8-4df4-8f4c-947e102e7697",
+    "scientific_name": "aerobic bacteria",
+    "common_names": [
+      "aerobic"
+    ],
+    "category": "microbe",
+    "cas_rn": null
+  },
+  {
+    "ulid": "01EDPTAXEXNAN89RM5AN0VVTP3",
+    "uuid": "645aa8cf-cc3a-4ba2-be75-82352d6a7667",
+    "scientific_name": "aflatoxin b1",
+    "common_names": [
+      "aflatoxin b1"
+    ],
+    "category": "mycotoxin",
+    "cas_rn": "1162-65-8"
+  },
+  {
+    "ulid": "01EDPTB0J14D79E5FDVRVM290N",
+    "uuid": "bf382589-1ea6-4095-b0b1-37342c0405c2",
+    "scientific_name": "aflatoxin b2",
+    "common_names": [
+      "aflatoxin b2"
+    ],
+    "category": "mycotoxin",
+    "cas_rn": "7220-81-7"
+  },
+  {
+    "ulid": "01EDPTB1FYFSFB0NXEFCRF5E72",
+    "uuid": "c6b47cf3-9b88-4520-8719-7e79201a3f0d",
+    "scientific_name": "aflatoxin g1",
+    "common_names": [
+      "aflatoxin g1"
+    ],
+    "category": "mycotoxin",
+    "cas_rn": "1165-39-5"
+  },
+  {
+    "ulid": "01EDPTB5B0PPN4WPYRMZD09BWY",
+    "uuid": "39cabc19-a8a7-455f-80fd-42b955dd707e",
+    "scientific_name": "aflatoxin g2",
+    "common_names": [
+      "aflatoxin g2"
+    ],
+    "category": "mycotoxin",
+    "cas_rn": "7241-98-7"
+  },
+  {
+    "ulid": "01FQFG9EJB2ZNCCGA3W92QF333",
+    "uuid": "bbdb4d50-b0c5-4d1e-9e91-a604cbeea8de",
+    "scientific_name": "aldicarb",
+    "common_names": [
+      "aldicarb"
+    ],
+    "category": "pesticide",
+    "cas_rn": "116-06-3"
+  },
+  {
+    "ulid": "01FQFG9EJC2Z0EFM33WDMPDEVN",
+    "uuid": "7ebedc29-508c-4e2d-8d9c-8bdef50e00f7",
+    "scientific_name": "all volatiles lost on drying",
+    "common_names": [
+      "loss on drying"
+    ],
+    "category": "moisture",
+    "cas_rn": null
+  },
+  {
+    "ulid": "01FQFG9EJB2ZNCCGA3W92QF32N",
+    "uuid": "7da4bce0-d82e-4ca7-97f4-bc8166b32d5d",
+    "scientific_name": "alpha-bulnesene",
+    "common_names": [
+      "a-bulnesene"
+    ],
+    "category": "terpene",
+    "cas_rn": "3691-11-0"
+  },
+  {
+    "ulid": "01FQFG9EJB2ZNCCGA3W92QF32R",
+    "uuid": "8d7fb342-db04-4055-9466-546cad98e2dc",
+    "scientific_name": "alpha-maaliene",
+    "common_names": [
+      "a-maaliene"
+    ],
+    "category": "terpene",
+    "cas_rn": "489-28-1"
+  },
+  {
+    "ulid": "01FQFG9EJB2ZNCCGA3W92QF32S",
+    "uuid": "dc7e4749-b937-4bbd-ae2e-60e7cefa25ce",
+    "scientific_name": "alpha-ocimene",
+    "common_names": [
+      "a-ocimene"
+    ],
+    "category": "terpene",
+    "cas_rn": "3338-55-4"
+  },
+  {
+    "ulid": "01FQFG9EJC2Z0EFM33WDMPDEVA",
+    "uuid": "8efb7214-e82d-402c-aeac-a2cd970bf3b9",
+    "scientific_name": "alpha-phellandrene",
+    "common_names": [
+      "a-phellandrene"
+    ],
+    "category": "terpene",
+    "cas_rn": "99-83-2"
+  },
+  {
+    "ulid": "01FQFG9EJB2ZNCCGA3W92QF32T",
+    "uuid": "0a0a945d-d497-46a6-9f94-1bc84c89b176",
+    "scientific_name": "alpha-pinene",
+    "common_names": [
+      "a-pinene"
+    ],
+    "category": "terpene",
+    "cas_rn": "80-56-8"
+  },
+  {
+    "ulid": "01FQFG9EJB2ZNCCGA3W92QF33G",
+    "uuid": "6b67194c-726c-4995-bd99-7346f984fb67",
+    "scientific_name": "alpha-santalene",
+    "common_names": [
+      "a-santalene"
+    ],
+    "category": "terpene",
+    "cas_rn": "512-61-8"
+  },
+  {
+    "ulid": "01FQFG9EJB2ZNCCGA3W92QF32W",
+    "uuid": "fe599d14-eece-40c9-b2aa-659e04f41e54",
+    "scientific_name": "alpha-terpinene",
+    "common_names": [
+      "a-terpinene"
+    ],
+    "category": "terpene",
+    "cas_rn": "99-86-5"
+  },
+  {
+    "ulid": "01FQFG9EJAGYQJ66VK3MZ4P4PQ",
+    "uuid": "797a7b84-f990-4855-a6e9-738794b34667",
+    "scientific_name": "argon",
+    "common_names": [
+      "argon"
+    ],
+    "category": "standard",
+    "cas_rn": "7440-37-1"
+  },
+  {
+    "ulid": "018NY6XC00LM4E4T6EPA7WPHDK",
+    "uuid": "c893c403-be8a-4ce6-95fd-713570caf0c9",
+    "scientific_name": "arsenic",
+    "common_names": [
+      "as",
+      "arsenic"
+    ],
+    "category": "unknown",
+    "cas_rn": "7440-38-2"
+  },
+  {
+    "ulid": "01FQFG9EJC2Z0EFM33WDMPDEV6",
+    "uuid": "ea5968d3-e599-4a42-a582-44fa89800c3e",
+    "scientific_name": "azoxystrobin",
+    "common_names": [
+      "azoxystrobin"
+    ],
+    "category": "pesticide",
+    "cas_rn": "131860-33-8"
+  },
+  {
+    "ulid": "01FQFG9EJB2ZNCCGA3W92QF33A",
+    "uuid": "88ff3a53-7a47-40f9-a3f5-c3627445c873",
+    "scientific_name": "benzene",
+    "common_names": [
+      "benzene"
+    ],
+    "category": "solvent",
+    "cas_rn": "71-43-2"
+  },
+  {
+    "ulid": "01FQFG9EJB2ZNCCGA3W92QF32V",
+    "uuid": "453bd446-78c3-48f4-9317-bc24dc55b054",
+    "scientific_name": "beta-maaliene",
+    "common_names": [
+      "b-maaliene"
+    ],
+    "category": "terpene",
+    "cas_rn": "489-29-2"
+  },
+  {
+    "ulid": "01FQFG9EJB2ZNCCGA3W92QF32Y",
+    "uuid": "a76db256-59f8-4d59-9837-5a1ae914c8d4",
+    "scientific_name": "beta-ocimene",
+    "common_names": [
+      "b-ocimene"
+    ],
+    "category": "terpene",
+    "cas_rn": "13877-91-3"
+  },
+  {
+    "ulid": "01FQFG9EJB2ZNCCGA3W92QF32X",
+    "uuid": "d20d8453-e64b-4a6f-adb6-5444e235857e",
+    "scientific_name": "beta-phellandrene",
+    "common_names": [
+      "b-phellandrene"
+    ],
+    "category": "terpene",
+    "cas_rn": "55-10-2"
+  },
+  {
+    "ulid": "01FQFG9EJB2ZNCCGA3W92QF330",
+    "uuid": "36a0bda9-150a-43ed-9c0b-6e4130f6c32b",
+    "scientific_name": "beta-pinene",
+    "common_names": [
+      "b-pinene"
+    ],
+    "category": "terpene",
+    "cas_rn": "127-91-3"
+  },
+  {
+    "ulid": "01FQFG9EJB2ZNCCGA3W92QF339",
+    "uuid": "b0077ff0-44be-47c1-b472-30869b52dde3",
+    "scientific_name": "bifenazate",
+    "common_names": [
+      "bifenazate"
+    ],
+    "category": "pesticide",
+    "cas_rn": "149877-41-8"
+  },
+  {
+    "ulid": "01FQFG9EJB2ZNCCGA3W92QF33B",
+    "uuid": "65386856-0e0e-4761-a167-899207758234",
+    "scientific_name": "bifenthrin",
+    "common_names": [
+      "bifenthrin"
+    ],
+    "category": "pesticide",
+    "cas_rn": "82657-04-3"
+  },
+  {
+    "ulid": "018NY6XC00LM638QCGB50ZKYKJ",
+    "uuid": "114632fb-b80c-475a-b566-5a812f1625bc",
+    "scientific_name": "bile tolerant gram negative bacteria",
+    "common_names": [
+      "btgn"
+    ],
+    "category": "microbe",
+    "cas_rn": null
+  },
+  {
+    "ulid": "01FQFG9EJC2Z0EFM33WDMPDEVE",
+    "uuid": "6baa893e-1c2c-44e6-bd03-ac80d864108b",
+    "scientific_name": "bisabolene",
+    "common_names": [
+      "bisabolene"
+    ],
+    "category": "terpene",
+    "cas_rn": "17627-44-0"
+  },
+  {
+    "ulid": "01FQFG9EJB2ZNCCGA3W92QF331",
+    "uuid": "b3bd1b60-bdc5-4754-8e19-ef907e76c5ea",
+    "scientific_name": "bisabolol",
+    "common_names": [
+      "bisabolol"
+    ],
+    "category": "terpene",
+    "cas_rn": "515-69-5"
+  },
+  {
+    "ulid": "01FQFG9EJB2ZNCCGA3W92QF33C",
+    "uuid": "d586b082-1ab9-4c08-8c9f-4ef96ce50b4e",
+    "scientific_name": "boscalid",
+    "common_names": [
+      "boscalid"
+    ],
+    "category": "pesticide",
+    "cas_rn": "188425-85-6"
+  },
+  {
+    "ulid": "018NY6XC00LMGNGNEW1XMNRS8S",
+    "uuid": "24200159-9c99-4ad0-b29e-ab5a4a1ccad2",
+    "scientific_name": "cadmium",
+    "common_names": [
+      "cd",
+      "cadmium"
+    ],
+    "category": "heavy metal",
+    "cas_rn": "7440-43-9"
+  },
+  {
+    "ulid": "01FQFG9EJB2ZNCCGA3W92QF32Z",
+    "uuid": "814a0477-c6f0-4df4-aea4-070a0ddeb9d5",
+    "scientific_name": "camphene",
+    "common_names": [
+      "camphene"
+    ],
+    "category": "terpene",
+    "cas_rn": "79-92-5"
+  },
+  {
+    "ulid": "018NY6XC00LM50KG4SS3BDPAGX",
+    "uuid": "4fd58aac-666a-4481-b048-8fb6caab7e30",
+    "scientific_name": "cannabichromene",
+    "common_names": [
+      "cbc"
+    ],
+    "category": "cannabinoid",
+    "cas_rn": "20675-51-8"
+  },
+  {
+    "ulid": "018NY6XC00LMQKS6HXP2KFY91E",
+    "uuid": "0a696ec7-dd52-40b0-a482-86b6fdeda17c",
+    "scientific_name": "cannabicitran",
+    "common_names": [
+      "cbt"
+    ],
+    "category": "cannabinoid",
+    "cas_rn": "31508-71-1"
+  },
+  {
+    "ulid": "018NY6XC00LMK7KHD3HPW0Y90N",
+    "uuid": "c5ceb2ad-8a6c-493f-8945-f1b766009fa4",
+    "scientific_name": "cannabidiol",
+    "common_names": [
+      "cbd"
+    ],
+    "category": "cannabinoid",
+    "cas_rn": "13956-29-1"
+  },
+  {
+    "ulid": "018NY6XC00LMENDHEH2Y32X903",
+    "uuid": "9e084d7c-6075-43c5-80fa-d05518cdcf4a",
+    "scientific_name": "cannabidiolic acid",
+    "common_names": [
+      "cbda"
+    ],
+    "category": "cannabinoid",
+    "cas_rn": "1244-58-2"
+  },
+  {
+    "ulid": "018NY6XC00LMZGPEH1Z4VY04RJ",
+    "uuid": "450dcd35-fc4a-4969-b8ea-784808f40a7a",
+    "scientific_name": "cannabidivarin",
+    "common_names": [
+      "cbdv"
+    ],
+    "category": "cannabinoid",
+    "cas_rn": "24274-48-4"
+  },
+  {
+    "ulid": "018NY6XC00M27M46SED0ZZCSQZ",
+    "uuid": "d78e5e7c-0bc2-4361-b6ae-65950445f632",
+    "scientific_name": "cannabidivarinic acid",
+    "common_names": [
+      "cbdva"
+    ],
+    "category": "cannabinoid",
+    "cas_rn": "31932-13-5"
+  },
+  {
+    "ulid": "018NY6XC00LMXRFMR5NJ35ZBAX",
+    "uuid": "1af8584b-bee4-4329-82f7-374e1f268ef0",
+    "scientific_name": "cannabigerol",
+    "common_names": [
+      "cbg"
+    ],
+    "category": "cannabinoid",
+    "cas_rn": "25654-31-3"
+  },
+  {
+    "ulid": "018NY6XC00LMAKFJY80QDMWF7F",
+    "uuid": "2af54850-b29b-4b15-bc55-fcb3875ccc94",
+    "scientific_name": "cannabigerolic acid",
+    "common_names": [
+      "cbga"
+    ],
+    "category": "cannabinoid",
+    "cas_rn": "25555-57-1"
+  },
+  {
+    "ulid": "018NY6XC00LM3W3G1ERAF2QEF5",
+    "uuid": "f02fd404-4e75-4abc-8613-49966d2abbf6",
+    "scientific_name": "cannabinol",
+    "common_names": [
+      "cbn"
+    ],
+    "category": "cannabinoid",
+    "cas_rn": "521-35-7"
+  },
+  {
+    "ulid": "01FQFG9EJB2ZNCCGA3W92QF33D",
+    "uuid": "2453cdc6-b386-4cb5-b1ef-9e17ca7a2ab1",
+    "scientific_name": "carbaryl",
+    "common_names": [
+      "carbaryl"
+    ],
+    "category": "pesticide",
+    "cas_rn": "63-25-2"
+  },
+  {
+    "ulid": "01FQFG9EJB2ZNCCGA3W92QF33E",
+    "uuid": "a6f67c63-cd6b-476a-9ab5-0d3c8934ccf6",
+    "scientific_name": "carbofuran",
+    "common_names": [
+      "carbofuran"
+    ],
+    "category": "pesticide",
+    "cas_rn": "1563-66-2"
+  },
+  {
+    "ulid": "01FQFG9EJB2ZNCCGA3W92QF332",
+    "uuid": "29823bdd-c106-4134-be5a-54b5b27cdca3",
+    "scientific_name": "carene",
+    "common_names": [
+      "carene"
+    ],
+    "category": "terpene",
+    "cas_rn": "13466-78-9"
+  },
+  {
+    "ulid": "01FQFG9EJB2ZNCCGA3W92QF334",
+    "uuid": "180f6a54-1bd3-49ee-acc9-8206fdbbef3f",
+    "scientific_name": "caryophyllene",
+    "common_names": [
+      "caryophyllene"
+    ],
+    "category": "terpene",
+    "cas_rn": "87-44-5"
+  },
+  {
+    "ulid": "01FQFG9EJB2ZNCCGA3W92QF335",
+    "uuid": "25bbd708-d059-4f3d-8fce-db28b066d174",
+    "scientific_name": "caryophyllene oxide",
+    "common_names": [
+      "caryophyllene oxide"
+    ],
+    "category": "terpene",
+    "cas_rn": "1139-30-6"
+  },
+  {
+    "ulid": "01FQFG9EJC2Z0EFM33WDMPDEVQ",
+    "uuid": "80c77935-0d13-4d9f-ad33-f91888d8d5a8",
+    "scientific_name": "cedrol",
+    "common_names": [
+      "cedrol"
+    ],
+    "category": "terpene",
+    "cas_rn": "77-53-2"
+  },
+  {
+    "ulid": "01FQFG9EJC2Z0EFM33WDMPDEW0",
+    "uuid": "bf79b1af-a9e6-4a45-ab89-e3adacf1a7e2",
+    "scientific_name": "chlorantraniliprole",
+    "common_names": [
+      "chlorantraniliprole"
+    ],
+    "category": "pesticide",
+    "cas_rn": "500008-45-7"
+  },
+  {
+    "ulid": "01FQFG9EJB2ZNCCGA3W92QF33F",
+    "uuid": "7c97610d-6997-4301-a772-9a735b33c0f6",
+    "scientific_name": "chlormequat",
+    "common_names": [
+      "chlormequat"
+    ],
+    "category": "pesticide",
+    "cas_rn": "7003-89-6"
+  },
+  {
+    "ulid": "01FQFG9EJC2Z0EFM33WDMPDEVY",
+    "uuid": "df870b92-2da0-490f-abe9-0b71ce2a3b33",
+    "scientific_name": "chloroform",
+    "common_names": [
+      "chloroform"
+    ],
+    "category": "solvent",
+    "cas_rn": "67-66-3"
+  },
+  {
+    "ulid": "01FQFG9EJC2Z0EFM33WDMPDEW1",
+    "uuid": "06f3396e-ef19-4eff-80cc-7395475cf262",
+    "scientific_name": "chlorpyrifos",
+    "common_names": [
+      "chlorpyrifos"
+    ],
+    "category": "pesticide",
+    "cas_rn": "2921-88-2"
+  },
+  {
+    "ulid": "01FQFG9EJB2ZNCCGA3W92QF34E",
+    "uuid": "69e00664-1b5f-4216-b3af-e280596a7f28",
+    "scientific_name": "cis-alpha-bergamotene",
+    "common_names": [
+      "cis-a-bergamotene"
+    ],
+    "category": "terpene",
+    "cas_rn": "18252-46-5"
+  },
+  {
+    "ulid": "01FQFG9EJB2ZNCCGA3W92QF34W",
+    "uuid": "ac81b53a-476d-44c8-8ce9-5e3ae506aa36",
+    "scientific_name": "cis-carveol",
+    "common_names": [
+      "cis-carveol"
+    ],
+    "category": "terpene",
+    "cas_rn": "1197-06-4"
+  },
+  {
+    "ulid": "01FQFG9EJB2ZNCCGA3W92QF33Y",
+    "uuid": "33266eec-0953-43ca-8fa3-e917841c9e51",
+    "scientific_name": "cis-nerolidol",
+    "common_names": [
+      "cis-nerolidol"
+    ],
+    "category": "terpene",
+    "cas_rn": "3790-78-1"
+  },
+  {
+    "ulid": "01FQFG9EJB2ZNCCGA3W92QF33Q",
+    "uuid": "97b1f5ee-7e30-4436-9740-419a961aeaa6",
+    "scientific_name": "cis-permethrin",
+    "common_names": [
+      "cis-permethrin"
+    ],
+    "category": "pesticide",
+    "cas_rn": "52645-53-1"
+  },
+  {
+    "ulid": "01FQFG9EJB2ZNCCGA3W92QF33X",
+    "uuid": "bde05067-aab1-4463-9a40-221cbdfee278",
+    "scientific_name": "citronellol",
+    "common_names": [
+      "citronellol"
+    ],
+    "category": "terpene",
+    "cas_rn": "106-22-9"
+  },
+  {
+    "ulid": "01FQFG9EJB2ZNCCGA3W92QF33V",
+    "uuid": "25a37834-821f-4c85-a937-bdbd83420ff0",
+    "scientific_name": "clofentezine",
+    "common_names": [
+      "clofentezine"
+    ],
+    "category": "pesticide",
+    "cas_rn": "74115-24-5"
+  },
+  {
+    "ulid": "018NY6XC00LMTMR8TN8WE86JVY",
+    "uuid": "04600de1-0d5a-4e3a-bc35-f4315a0f2972",
+    "scientific_name": "coliforms",
+    "common_names": [
+      "coliform"
+    ],
+    "category": "microbe",
+    "cas_rn": null
+  },
+  {
+    "ulid": "01FQFG9EJB2ZNCCGA3W92QF33H",
+    "uuid": "691def06-fc99-498a-98e3-1354014a4cef",
+    "scientific_name": "cyclohexane",
+    "common_names": [
+      "cyclohexane"
+    ],
+    "category": "solvent",
+    "cas_rn": "110-82-7"
+  },
+  {
+    "ulid": "01FQFG9EJB2ZNCCGA3W92QF34F",
+    "uuid": "f513fdd2-0148-45ce-a2cb-0112fd89260e",
+    "scientific_name": "cyfluthrin",
+    "common_names": [
+      "cyfluthrin"
+    ],
+    "category": "pesticide",
+    "cas_rn": "68359-37-5"
+  },
+  {
+    "ulid": "01FQFG9EJB2ZNCCGA3W92QF34G",
+    "uuid": "bf2f40fa-b2b8-4dd6-9fe9-c00ea5a989e6",
+    "scientific_name": "cypermethrin",
+    "common_names": [
+      "cypermethrin"
+    ],
+    "category": "pesticide",
+    "cas_rn": "52315-07-8"
+  },
+  {
+    "ulid": "01FQFG9EJB2ZNCCGA3W92QF33T",
+    "uuid": "19bd3f6d-ec61-40c2-b7e8-b70ffd8dd167",
+    "scientific_name": "daminozide",
+    "common_names": [
+      "daminozide"
+    ],
+    "category": "pesticide",
+    "cas_rn": "1596-84-5"
+  },
+  {
+    "ulid": "018NY6XC00LM877GAKMFPK7BMC",
+    "uuid": "0b48c7b3-c89b-4699-af3e-099cdb6972b6",
+    "scientific_name": "delta-8-tetrahydrocannabinol",
+    "common_names": [
+      "d8-thc"
+    ],
+    "category": "cannabinoid",
+    "cas_rn": "5957-75-5"
+  },
+  {
+    "ulid": "018NY6XC00VGBEM8CDWPX8J0MB",
+    "uuid": "5881991d-6bd3-4502-8556-dec52fa88691",
+    "scientific_name": "delta-8-tetrahydrocannabivarin",
+    "common_names": [
+      "d8-thcv",
+      "propyl-delta(8)-tetrahydrocannabinol"
+    ],
+    "category": "cannabinoid",
+    "cas_rn": "31262-38-1"
+  },
+  {
+    "ulid": "018NY6XC00LM49CV7QP9KM9QH9",
+    "uuid": "25ff0364-4c5f-43be-a278-704cd41232e6",
+    "scientific_name": "delta-9-tetrahydrocannabinol",
+    "common_names": [
+      "d9-thc"
+    ],
+    "category": "cannabinoid",
+    "cas_rn": "1972-08-3"
+  },
+  {
+    "ulid": "018NY6XC00LMEXWB3ENZ1MK7R4",
+    "uuid": "36cac75e-d055-4101-990f-1797d3745439",
+    "scientific_name": "delta-9-tetrahydrocannabivarin",
+    "common_names": [
+      "thcv"
+    ],
+    "category": "cannabinoid",
+    "cas_rn": "31262-37-0"
+  },
+  {
+    "ulid": "01FQFG9EJB2ZNCCGA3W92QF34A",
+    "uuid": "2786c825-28cb-4ccc-9b6c-ba61bfa81bbc",
+    "scientific_name": "diazinon",
+    "common_names": [
+      "diazinon"
+    ],
+    "category": "pesticide",
+    "cas_rn": "333-41-5"
+  },
+  {
+    "ulid": "01FQFG9EJC2Z0EFM33WDMPDEVP",
+    "uuid": "09036152-31c2-4938-8b36-c9704a35d939",
+    "scientific_name": "dichloromethane",
+    "common_names": [
+      "dichloromethane"
+    ],
+    "category": "solvent",
+    "cas_rn": "75-09-2"
+  },
+  {
+    "ulid": "01FQFG9EJC2Z0EFM33WDMPDEW2",
+    "uuid": "816c8b5e-ef16-47fc-b99f-5abe1cd1bd7e",
+    "scientific_name": "dichlorvos",
+    "common_names": [
+      "dichlorvos"
+    ],
+    "category": "pesticide",
+    "cas_rn": "62-73-7"
+  },
+  {
+    "ulid": "01FQFG9EJC2Z0EFM33WDMPDEW6",
+    "uuid": "659932d2-0c5d-47d6-b8ce-26ec018a0b97",
+    "scientific_name": "dimethoate",
+    "common_names": [
+      "dimethoate"
+    ],
+    "category": "pesticide",
+    "cas_rn": "60-51-5"
+  },
+  {
+    "ulid": "01FQFG9EJB2ZNCCGA3W92QF34M",
+    "uuid": "c5485309-984e-47af-afe7-3abdfb05e466",
+    "scientific_name": "diuron",
+    "common_names": [
+      "diuron"
+    ],
+    "category": "pesticide",
+    "cas_rn": "330-54-1"
+  },
+  {
+    "ulid": "018NY6XC00LM7S8H2RT4K4GYME",
+    "uuid": "dd268da7-ec2f-428a-9502-2fb7e8aa6cfe",
+    "scientific_name": "e coli",
+    "common_names": [
+      "e coli"
+    ],
+    "category": "microbe",
+    "cas_rn": null
+  },
+  {
+    "ulid": "01FQFG9EJB2ZNCCGA3W92QF33W",
+    "uuid": "f5bef243-4328-4176-ad1b-2a876be5a404",
+    "scientific_name": "ethanol",
+    "common_names": [
+      "ethanol"
+    ],
+    "category": "solvent",
+    "cas_rn": "64-17-5"
+  },
+  {
+    "ulid": "01FQFG9EJB2ZNCCGA3W92QF34H",
+    "uuid": "0b3b918f-2d8e-48c0-9821-f3439c723b2d",
+    "scientific_name": "ethoprophos",
+    "common_names": [
+      "ethoprophos"
+    ],
+    "category": "pesticide",
+    "cas_rn": "13194-48-4"
+  },
+  {
+    "ulid": "01FQFG9EJB2ZNCCGA3W92QF33P",
+    "uuid": "ee2be470-5c92-4a32-9ccd-bc83f9d82e98",
+    "scientific_name": "ethyl acetate",
+    "common_names": [
+      "ethyl_acetate"
+    ],
+    "category": "solvent",
+    "cas_rn": "141-78-6"
+  },
+  {
+    "ulid": "01FQFG9EJB2ZNCCGA3W92QF33N",
+    "uuid": "767934be-64bf-4bb4-8aa2-4d290d16963c",
+    "scientific_name": "ethyl benzene",
+    "common_names": [
+      "ethyl_benzene"
+    ],
+    "category": "solvent",
+    "cas_rn": "100-41-4"
+  },
+  {
+    "ulid": "01FQFG9EJB2ZNCCGA3W92QF34J",
+    "uuid": "f0fc7763-b8d7-4601-8f80-402f42d18d71",
+    "scientific_name": "etofenprox",
+    "common_names": [
+      "etofenprox"
+    ],
+    "category": "pesticide",
+    "cas_rn": "80844-07-1"
+  },
+  {
+    "ulid": "01FQFG9EJB2ZNCCGA3W92QF34K",
+    "uuid": "6a9d9037-9287-4e38-bcbb-1607dd07c522",
+    "scientific_name": "etoxazole",
+    "common_names": [
+      "etoxazole"
+    ],
+    "category": "pesticide",
+    "cas_rn": "153233-91-1"
+  },
+  {
+    "ulid": "01FQFG9EJB2ZNCCGA3W92QF340",
+    "uuid": "e5007906-9824-4024-9ac4-a86d57c0c4f6",
+    "scientific_name": "eucalyptol",
+    "common_names": [
+      "eucalyptol"
+    ],
+    "category": "terpene",
+    "cas_rn": "470-82-6"
+  },
+  {
+    "ulid": "01FQFG9EJB2ZNCCGA3W92QF33Z",
+    "uuid": "1301124c-6b16-477f-9ea8-201b0924651c",
+    "scientific_name": "eudesmol",
+    "common_names": [
+      "eudesmol"
+    ],
+    "category": "terpene",
+    "cas_rn": "473-15-4"
+  },
+  {
+    "ulid": "01FQFG9EJC2Z0EFM33WDMPDEVD",
+    "uuid": "66b7a0e3-c92b-4c03-9992-400be51c40f9",
+    "scientific_name": "farnesene",
+    "common_names": [
+      "farnesene"
+    ],
+    "category": "terpene",
+    "cas_rn": "502-61-4"
+  },
+  {
+    "ulid": "01FQFG9EJB2ZNCCGA3W92QF342",
+    "uuid": "4804aed1-2366-424c-897e-81e8a376d2c4",
+    "scientific_name": "fenchol",
+    "common_names": [
+      "fenchol"
+    ],
+    "category": "terpene",
+    "cas_rn": "1632-73-1"
+  },
+  {
+    "ulid": "01FQFG9EJB2ZNCCGA3W92QF343",
+    "uuid": "b582b25d-7b0e-4ca5-b2a5-380887dbd03c",
+    "scientific_name": "fenchone",
+    "common_names": [
+      "fenchone"
+    ],
+    "category": "terpene",
+    "cas_rn": "1195-79-5"
+  },
+  {
+    "ulid": "01FQFG9EJB2ZNCCGA3W92QF34N",
+    "uuid": "2f9759a0-fa54-4728-a238-74e1f6773b65",
+    "scientific_name": "fenoxycarb",
+    "common_names": [
+      "fenoxycarb"
+    ],
+    "category": "pesticide",
+    "cas_rn": "72490-01-8"
+  },
+  {
+    "ulid": "01FQFG9EJC2Z0EFM33WDMPDEW3",
+    "uuid": "d3bc7c2f-9737-4633-84fc-9e0e1b984246",
+    "scientific_name": "fenpyroximate",
+    "common_names": [
+      "fenpyroximate"
+    ],
+    "category": "pesticide",
+    "cas_rn": "134098-61-6"
+  },
+  {
+    "ulid": "01FQFG9EJB2ZNCCGA3W92QF34P",
+    "uuid": "2c408b0a-7e78-4014-a055-dd26fe1362ee",
+    "scientific_name": "fipronil",
+    "common_names": [
+      "fipronil"
+    ],
+    "category": "pesticide",
+    "cas_rn": "120068-37-3"
+  },
+  {
+    "ulid": "01FQFG9EJB2ZNCCGA3W92QF34Q",
+    "uuid": "d37a09a3-80cb-49c6-9ee5-a0a5d6e7f81a",
+    "scientific_name": "flonicamid",
+    "common_names": [
+      "flonicamid"
+    ],
+    "category": "pesticide",
+    "cas_rn": "158062-67-0"
+  },
+  {
+    "ulid": "01FQFG9EJC2Z0EFM33WDMPDEW7",
+    "uuid": "c6c94129-621a-486e-b723-b72663e64a35",
+    "scientific_name": "fludioxonil",
+    "common_names": [
+      "fludioxonil"
+    ],
+    "category": "pesticide",
+    "cas_rn": "131341-86-1"
+  },
+  {
+    "ulid": "01FQFG9EJB2ZNCCGA3W92QF34V",
+    "uuid": "afbbd853-c068-4925-ae55-44a4c24a568e",
+    "scientific_name": "fluoxastrobin",
+    "common_names": [
+      "fluoxastrobin"
+    ],
+    "category": "pesticide",
+    "cas_rn": "361377-29-9"
+  },
+  {
+    "ulid": "01FQFG9EJB2ZNCCGA3W92QF341",
+    "uuid": "2b180cc4-65b7-442b-a7bd-9a96191f7899",
+    "scientific_name": "gamma-guaiene",
+    "common_names": [
+      "g-guaiene"
+    ],
+    "category": "terpene",
+    "cas_rn": "3691-12-1"
+  },
+  {
+    "ulid": "01FQFG9EJB2ZNCCGA3W92QF345",
+    "uuid": "becbf9d0-fbde-4ce9-aadf-4feac8fd31de",
+    "scientific_name": "gamma-terpinene",
+    "common_names": [
+      "g-terpinene"
+    ],
+    "category": "terpene",
+    "cas_rn": "99-85-4"
+  },
+  {
+    "ulid": "01FQFG9EJB2ZNCCGA3W92QF346",
+    "uuid": "098424b8-97ae-44e6-979f-ce80c53833a1",
+    "scientific_name": "geraniol",
+    "common_names": [
+      "geraniol"
+    ],
+    "category": "terpene",
+    "cas_rn": "106-24-1"
+  },
+  {
+    "ulid": "01FQFG9EJB2ZNCCGA3W92QF344",
+    "uuid": "5555502a-7dce-4aed-b8b6-7270922b0039",
+    "scientific_name": "guaiol",
+    "common_names": [
+      "guaiol"
+    ],
+    "category": "terpene",
+    "cas_rn": "489-86-1"
+  },
+  {
+    "ulid": "01FQFG9EJB2ZNCCGA3W92QF33M",
+    "uuid": "4c0d5546-2dbb-4c78-99fc-0f9d7cf9a9e6",
+    "scientific_name": "hexyl-butyrate",
+    "common_names": [
+      "hexyl-butyrate"
+    ],
+    "category": "solvent",
+    "cas_rn": "2639-63-6"
+  },
+  {
+    "ulid": "01FQFG9EJB2ZNCCGA3W92QF33R",
+    "uuid": "5753d35c-2505-4922-8ab7-9ed5729fee44",
+    "scientific_name": "hexyl-hexanoate",
+    "common_names": [
+      "hexyl-hexanoate"
+    ],
+    "category": "solvent",
+    "cas_rn": "6378-65-0"
+  },
+  {
+    "ulid": "01FQFG9EJB2ZNCCGA3W92QF34R",
+    "uuid": "603b5770-733d-4d02-8897-770af3590d37",
+    "scientific_name": "hexythiazox",
+    "common_names": [
+      "hexythiazox"
+    ],
+    "category": "pesticide",
+    "cas_rn": "78587-05-0"
+  },
+  {
+    "ulid": "01FQFG9EJB2ZNCCGA3W92QF347",
+    "uuid": "4be468b0-93d0-4f13-b493-ffbc2482d97e",
+    "scientific_name": "himachalene",
+    "common_names": [
+      "himachalene"
+    ],
+    "category": "terpene",
+    "cas_rn": "1461-03-06"
+  },
+  {
+    "ulid": "01FQFG9EJC2Z0EFM33WDMPDEVH",
+    "uuid": "8c95be83-91b0-4308-88d5-56f667234fb9",
+    "scientific_name": "humulene",
+    "common_names": [
+      "humulene"
+    ],
+    "category": "terpene",
+    "cas_rn": "6753-98-6"
+  },
+  {
+    "ulid": "01FQFG9EJC2Z0EFM33WDMPDEVR",
+    "uuid": "995d66bd-9fc3-4ffa-9ef8-c726752c9e54",
+    "scientific_name": "humulene oxide ii",
+    "common_names": [
+      "humulene oxide"
+    ],
+    "category": "terpene",
+    "cas_rn": "19888-34-7"
+  },
+  {
+    "ulid": "01FQFG9EJB2ZNCCGA3W92QF34S",
+    "uuid": "3a9af4fc-f799-4e42-a296-e2d777081467",
+    "scientific_name": "imazalil",
+    "common_names": [
+      "imazalil"
+    ],
+    "category": "pesticide",
+    "cas_rn": "35554-44-0"
+  },
+  {
+    "ulid": "01FQFG9EJB2ZNCCGA3W92QF34T",
+    "uuid": "7030a0cb-819f-4755-a35e-ea5d6325f3b5",
+    "scientific_name": "imidacloprid",
+    "common_names": [
+      "imidacloprid"
+    ],
+    "category": "pesticide",
+    "cas_rn": "138261-41-3"
+  },
+  {
+    "ulid": "01FQFG9EJB2ZNCCGA3W92QF34D",
+    "uuid": "ff3b38a4-442f-497b-8b19-5dda9832c561",
+    "scientific_name": "iso-butane",
+    "common_names": [
+      "iso-butane"
+    ],
+    "category": "solvent",
+    "cas_rn": "75-28-5"
+  },
+  {
+    "ulid": "01FQFG9EJB2ZNCCGA3W92QF348",
+    "uuid": "90c70a0f-ce50-4ebd-bc39-c8b8e8fb7460",
+    "scientific_name": "iso-pentane",
+    "common_names": [
+      "iso-pentane"
+    ],
+    "category": "solvent",
+    "cas_rn": "78-78-4"
+  },
+  {
+    "ulid": "01FQFG9EJC2Z0EFM33WDMPDEVS",
+    "uuid": "ace81ef0-8fed-4c60-ab03-7edebf6acdf4",
+    "scientific_name": "iso-propanol",
+    "common_names": [
+      "iso-propanol"
+    ],
+    "category": "solvent",
+    "cas_rn": "67-63-0"
+  },
+  {
+    "ulid": "01FQFG9EJB2ZNCCGA3W92QF34B",
+    "uuid": "0435c46d-bd0b-4ba9-bae9-1fb806c41592",
+    "scientific_name": "isopulegol",
+    "common_names": [
+      "isopulegol"
+    ],
+    "category": "terpene",
+    "cas_rn": "89-79-2"
+  },
+  {
+    "ulid": "01FQFG9EJC2Z0EFM33WDMPDEWA",
+    "uuid": "7e91c827-bb83-4ad0-851f-f512d323599e",
+    "scientific_name": "kresoxim-methyl",
+    "common_names": [
+      "kresoxim-methyl"
+    ],
+    "category": "pesticide",
+    "cas_rn": "143390-89-0"
+  },
+  {
+    "ulid": "018NY6XC00LM6YBP4J5ASBWVNR",
+    "uuid": "e5b03440-73fc-4270-a5a9-629146a8ffd1",
+    "scientific_name": "lead",
+    "common_names": [
+      "pb",
+      "lead"
+    ],
+    "category": "unknown",
+    "cas_rn": "7439-92-1"
+  },
+  {
+    "ulid": "01FQFG9EJB2ZNCCGA3W92QF34C",
+    "uuid": "b5c99df0-24f6-44d3-9bee-209c2fc7552c",
+    "scientific_name": "limonene",
+    "common_names": [
+      "limonene"
+    ],
+    "category": "terpene",
+    "cas_rn": "5989-27-5"
+  },
+  {
+    "ulid": "01FQFG9EJB2ZNCCGA3W92QF35M",
+    "uuid": "eab8f974-e3f0-45d0-9947-0d91f5469791",
+    "scientific_name": "linalool",
+    "common_names": [
+      "linalool"
+    ],
+    "category": "terpene",
+    "cas_rn": "78-70-6"
+  },
+  {
+    "ulid": "01FQFG9EJB2ZNCCGA3W92QF34Y",
+    "uuid": "89c2b866-9872-4662-9703-9915c896cb2e",
+    "scientific_name": "malathion",
+    "common_names": [
+      "malathion"
+    ],
+    "category": "pesticide",
+    "cas_rn": "121-75-5"
+  },
+  {
+    "ulid": "018NY6XC00LM10ZPAN42R490W3",
+    "uuid": "2d4c62f8-0837-4678-862e-74c88f040e67",
+    "scientific_name": "mercury",
+    "common_names": [
+      "hg",
+      "mercury"
+    ],
+    "category": "unknown",
+    "cas_rn": "7439-97-6"
+  },
+  {
+    "ulid": "01FQFG9EJB2ZNCCGA3W92QF356",
+    "uuid": "0be833bb-f785-4203-8d10-2d6a2e8ebc80",
+    "scientific_name": "meta-para-xylene",
+    "common_names": [
+      "meta-para-xylene"
+    ],
+    "category": "solvent",
+    "cas_rn": "108-38-3"
+  },
+  {
+    "ulid": "01FQFG9EJB2ZNCCGA3W92QF357",
+    "uuid": "0e0093de-2be7-4d04-9051-24ac2f78604a",
+    "scientific_name": "metalaxyl",
+    "common_names": [
+      "metalaxyl"
+    ],
+    "category": "pesticide",
+    "cas_rn": "57837-19-1"
+  },
+  {
+    "ulid": "01FQFG9EJB2ZNCCGA3W92QF352",
+    "uuid": "93e3590d-e2ad-4555-bb1a-22282b912a8f",
+    "scientific_name": "methanol",
+    "common_names": [
+      "methanol"
+    ],
+    "category": "solvent",
+    "cas_rn": "67-56-1"
+  },
+  {
+    "ulid": "01FQFG9EJB2ZNCCGA3W92QF358",
+    "uuid": "e8bfb23c-3d47-4f2a-9209-6182670bbbfc",
+    "scientific_name": "methiocarb",
+    "common_names": [
+      "methiocarb"
+    ],
+    "category": "pesticide",
+    "cas_rn": "2032-65-7"
+  },
+  {
+    "ulid": "01FQFG9EJC2Z0EFM33WDMPDET7",
+    "uuid": "dc0f8c7a-c944-48c1-ab25-77a7c97a7544",
+    "scientific_name": "methomyl",
+    "common_names": [
+      "methomyl"
+    ],
+    "category": "pesticide",
+    "cas_rn": "16752-77-5"
+  },
+  {
+    "ulid": "01FQFG9EJC2Z0EFM33WDMPDET9",
+    "uuid": "e9ab4c7e-abdb-4a70-9d71-eaf5d10061e8",
+    "scientific_name": "mgk-264",
+    "common_names": [
+      "mgk-264"
+    ],
+    "category": "pesticide",
+    "cas_rn": "113-48-4"
+  },
+  {
+    "ulid": "01FQFG9EJC2Z0EFM33WDMPDEW4",
+    "uuid": "5f824ff7-da48-4970-8e8f-26abb222d3e8",
+    "scientific_name": "myclobutanil",
+    "common_names": [
+      "myclobutanil"
+    ],
+    "category": "pesticide",
+    "cas_rn": "88671-89-0"
+  },
+  {
+    "ulid": "01FQFG9EJB2ZNCCGA3W92QF34X",
+    "uuid": "e49f45d9-d652-4812-a943-9a15d35e4ffa",
+    "scientific_name": "myrcene",
+    "common_names": [
+      "myrcene"
+    ],
+    "category": "terpene",
+    "cas_rn": "123-35-3"
+  },
+  {
+    "ulid": "01FQFG9EJC2Z0EFM33WDMPDEV7",
+    "uuid": "b8e4634e-9d66-4d7d-a7e7-1b56b11fd63d",
+    "scientific_name": "n-butane",
+    "common_names": [
+      "n-butane"
+    ],
+    "category": "solvent",
+    "cas_rn": "106-97-8"
+  },
+  {
+    "ulid": "01FQFG9EJB2ZNCCGA3W92QF354",
+    "uuid": "4a83b3ad-4664-4191-98d6-73ba68c92018",
+    "scientific_name": "n-heptane",
+    "common_names": [
+      "n-heptane"
+    ],
+    "category": "solvent",
+    "cas_rn": "142-82-5"
+  },
+  {
+    "ulid": "01FQFG9EJB2ZNCCGA3W92QF35K",
+    "uuid": "14b35135-4cec-4d64-852c-af8fd794e7c7",
+    "scientific_name": "n-hexane",
+    "common_names": [
+      "n-hexane"
+    ],
+    "category": "solvent",
+    "cas_rn": "110-54-3"
+  },
+  {
+    "ulid": "01FQFG9EJC2Z0EFM33WDMPDEV8",
+    "uuid": "ca236346-bddd-4a92-9fea-b7285dfa2e4d",
+    "scientific_name": "n-pentane",
+    "common_names": [
+      "n-pentane"
+    ],
+    "category": "solvent",
+    "cas_rn": "109-66-0"
+  },
+  {
+    "ulid": "01FQFG9EJC2Z0EFM33WDMPDET8",
+    "uuid": "aa886df2-be28-45cf-9e76-d035cc4f298a",
+    "scientific_name": "naled",
+    "common_names": [
+      "naled"
+    ],
+    "category": "pesticide",
+    "cas_rn": "300-76-5"
+  },
+  {
+    "ulid": "018NY6XC00LMK15566W1G0ZH5X",
+    "uuid": "31bbafbc-b8de-4927-a4ef-db4a1024b4cc",
+    "scientific_name": "ochratoxin a",
+    "common_names": [
+      "ochratoxin a"
+    ],
+    "category": "mycotoxin",
+    "cas_rn": "303-47-9"
+  },
+  {
+    "ulid": "01FQFG9EJB2ZNCCGA3W92QF355",
+    "uuid": "ad4b8e0c-f822-48d0-b643-4468248b01ec",
+    "scientific_name": "ortho-xylene",
+    "common_names": [
+      "ortho-xylene"
+    ],
+    "category": "solvent",
+    "cas_rn": "95-47-6"
+  },
+  {
+    "ulid": "01FQFG9EJC2Z0EFM33WDMPDETA",
+    "uuid": "3cc4178c-b1be-4523-8574-3d76328d5c8f",
+    "scientific_name": "oxamyl",
+    "common_names": [
+      "oxamyl"
+    ],
+    "category": "pesticide",
+    "cas_rn": "23135-22-0"
+  },
+  {
+    "ulid": "01FQFG9EJC2Z0EFM33WDMPDEW8",
+    "uuid": "f130e881-6511-4779-a54a-3a80e1520996",
+    "scientific_name": "paclobutrazol",
+    "common_names": [
+      "paclobutrazol"
+    ],
+    "category": "pesticide",
+    "cas_rn": "76738-62-0"
+  },
+  {
+    "ulid": "01FQFG9EJB2ZNCCGA3W92QF35A",
+    "uuid": "c41ccc2e-23e8-4944-ba4c-3f48a4468c80",
+    "scientific_name": "para-cymene",
+    "common_names": [
+      "p-cymene"
+    ],
+    "category": "terpene",
+    "cas_rn": "99-87-6"
+  },
+  {
+    "ulid": "01FQFG9EJB2ZNCCGA3W92QF353",
+    "uuid": "dbf85bb8-7880-4e93-82dc-766a5f263077",
+    "scientific_name": "para-cymenene",
+    "common_names": [
+      "p-cymenene"
+    ],
+    "category": "terpene",
+    "cas_rn": "1163"
+  },
+  {
+    "ulid": "01FQFG9EJC2Z0EFM33WDMPDETD",
+    "uuid": "08c3514a-4910-4f78-a8f4-74ded6c65c87",
+    "scientific_name": "permethrin",
+    "common_names": [
+      "permethrin"
+    ],
+    "category": "pesticide",
+    "cas_rn": "52645-53-1"
+  },
+  {
+    "ulid": "01FQFG9EJC2Z0EFM33WDMPDETG",
+    "uuid": "f590e1a6-13d5-4693-9a6c-3dfa05fe14be",
+    "scientific_name": "permethrins",
+    "common_names": [
+      "permethrins"
+    ],
+    "category": "pesticide",
+    "cas_rn": "52645-53-1"
+  },
+  {
+    "ulid": "01FQFG9EJC2Z0EFM33WDMPDETY",
+    "uuid": "52083207-8b0a-4346-9a56-08951788a4fc",
+    "scientific_name": "phosmet",
+    "common_names": [
+      "phosmet"
+    ],
+    "category": "pesticide",
+    "cas_rn": "732-11-6"
+  },
+  {
+    "ulid": "01FQFG9EJC2Z0EFM33WDMPDETB",
+    "uuid": "ced966ed-9e9e-4341-b4b3-e7a7b054f108",
+    "scientific_name": "piperonyl butoxide",
+    "common_names": [
+      "piperonyl butoxide"
+    ],
+    "category": "pesticide",
+    "cas_rn": "51-03-6"
+  },
+  {
+    "ulid": "018NY6XC00LMA50497RDC53DB5",
+    "uuid": "48d944ea-785c-4a4b-8982-a8c748d333de",
+    "scientific_name": "plant seed",
+    "common_names": [
+      "seed",
+      "seeds",
+      "other"
+    ],
+    "category": "foreign matter",
+    "cas_rn": null
+  },
+  {
+    "ulid": "018NY6XC00LMQAZZSDXPYH62SS",
+    "uuid": "e5abc1c2-20ea-4692-974a-4d5ca5f1239b",
+    "scientific_name": "plant stem",
+    "common_names": [
+      "stem",
+      "stems"
+    ],
+    "category": "foreign matter",
+    "cas_rn": null
+  },
+  {
+    "ulid": "01FQFG9EJC2Z0EFM33WDMPDETC",
+    "uuid": "ef2fd083-027d-420b-84c7-da3172254add",
+    "scientific_name": "prallethrin",
+    "common_names": [
+      "prallethrin"
+    ],
+    "category": "pesticide",
+    "cas_rn": "23031-36-9"
+  },
+  {
+    "ulid": "01FQFG9EJB2ZNCCGA3W92QF35J",
+    "uuid": "92492dcf-5dd8-4beb-ae45-9c46ce1e8c45",
+    "scientific_name": "propane",
+    "common_names": [
+      "propane"
+    ],
+    "category": "solvent",
+    "cas_rn": "74-98-6"
+  },
+  {
+    "ulid": "01FQFG9EJC2Z0EFM33WDMPDETH",
+    "uuid": "582c00bb-9333-4f13-a677-88d3a55c5f50",
+    "scientific_name": "propiconazole",
+    "common_names": [
+      "propiconazole"
+    ],
+    "category": "pesticide",
+    "cas_rn": "60207-90-1"
+  },
+  {
+    "ulid": "01FQFG9EJC2Z0EFM33WDMPDETJ",
+    "uuid": "7d46088b-15ee-464a-bd98-7ff2c4584eb1",
+    "scientific_name": "propoxur",
+    "common_names": [
+      "propoxur"
+    ],
+    "category": "pesticide",
+    "cas_rn": "114-26-1"
+  },
+  {
+    "ulid": "01FQFG9EJC2Z0EFM33WDMPDEVF",
+    "uuid": "7083bcf4-f44a-4380-8768-ecd513c88e15",
+    "scientific_name": "pseudo-valencene",
+    "common_names": [
+      "pseudo-valencene"
+    ],
+    "category": "terpene",
+    "cas_rn": "58893-88-2"
+  },
+  {
+    "ulid": "01FQFG9EJC2Z0EFM33WDMPDETK",
+    "uuid": "2f0f161e-f13f-4f9a-b867-496ded80974c",
+    "scientific_name": "pyrethrin i",
+    "common_names": [
+      "pyrethrin i"
+    ],
+    "category": "pesticide",
+    "cas_rn": "8003-34-7"
+  },
+  {
+    "ulid": "01FQFG9EJC2Z0EFM33WDMPDETM",
+    "uuid": "2c18810b-8b78-4633-81d3-20f3af69b419",
+    "scientific_name": "pyridaben",
+    "common_names": [
+      "pyridaben"
+    ],
+    "category": "pesticide",
+    "cas_rn": "96489-71-3"
+  },
+  {
+    "ulid": "01FQFG9EJB2ZNCCGA3W92QF35B",
+    "uuid": "25de2bee-23e8-4d37-95a2-56a3b8206174",
+    "scientific_name": "sabinene",
+    "common_names": [
+      "sabinene"
+    ],
+    "category": "terpene",
+    "cas_rn": "3387-41-5"
+  },
+  {
+    "ulid": "018NY6XC00LMS96WE6KHKNP52T",
+    "uuid": "cb9c8b2e-c8b5-4cc4-b1b4-346fa75a4d86",
+    "scientific_name": "salmonella",
+    "common_names": [
+      "salmonella"
+    ],
+    "category": "microbe",
+    "cas_rn": null
+  },
+  {
+    "ulid": "01FQFG9EJB2ZNCCGA3W92QF35C",
+    "uuid": "78ce0061-385e-41a1-acb3-b22845390de0",
+    "scientific_name": "selinadiene",
+    "common_names": [
+      "selinadiene"
+    ],
+    "category": "terpene",
+    "cas_rn": "28290-20-2"
+  },
+  {
+    "ulid": "01FQFG9EJC2Z0EFM33WDMPDETN",
+    "uuid": "bdc7b103-7262-4ed1-8da4-b2262c251832",
+    "scientific_name": "spinosad a",
+    "common_names": [
+      "spinosad a"
+    ],
+    "category": "pesticide",
+    "cas_rn": "168316-95-8"
+  },
+  {
+    "ulid": "01FQFG9EJC2Z0EFM33WDMPDEW9",
+    "uuid": "857bdab9-369d-4b2a-8fac-9564b4cedb1a",
+    "scientific_name": "spinosad d",
+    "common_names": [
+      "spinosad d"
+    ],
+    "category": "pesticide",
+    "cas_rn": "168316-95-9"
+  },
+  {
+    "ulid": "01FQFG9EJC2Z0EFM33WDMPDEWB",
+    "uuid": "446c7770-eeee-4c2e-a93f-777e0531ba11",
+    "scientific_name": "spiromesifen",
+    "common_names": [
+      "spiromesifen"
+    ],
+    "category": "pesticide",
+    "cas_rn": "283594-90-1"
+  },
+  {
+    "ulid": "01FQFG9EJC2Z0EFM33WDMPDETP",
+    "uuid": "fb60ad4a-4ed7-4bb1-8c91-272893f57820",
+    "scientific_name": "spirotetramat",
+    "common_names": [
+      "spirotetramat"
+    ],
+    "category": "pesticide",
+    "cas_rn": "203313-25-1"
+  },
+  {
+    "ulid": "01FQFG9EJC2Z0EFM33WDMPDETQ",
+    "uuid": "49af85f9-2c61-4434-ba6c-89aa2ceb7b2c",
+    "scientific_name": "spiroxamine",
+    "common_names": [
+      "spiroxamine"
+    ],
+    "category": "pesticide",
+    "cas_rn": "118134-30-8"
+  },
+  {
+    "ulid": "01FQFG9EJB2ZNCCGA3W92QF35D",
+    "uuid": "b1d87826-fc8e-4a8d-a3b3-dff526bce627",
+    "scientific_name": "sulcatone",
+    "common_names": [
+      "sulcatone"
+    ],
+    "category": "terpene",
+    "cas_rn": "110-93-0"
+  },
+  {
+    "ulid": "01FQFG9EJC2Z0EFM33WDMPDETR",
+    "uuid": "7e68d85b-d07d-4434-97e7-54ff4ca192f0",
+    "scientific_name": "tebuconazole",
+    "common_names": [
+      "tebuconazole"
+    ],
+    "category": "pesticide",
+    "cas_rn": "80443-41-0"
+  },
+  {
+    "ulid": "01FQFG9EJB2ZNCCGA3W92QF35F",
+    "uuid": "a752aea3-21e5-43bd-973e-d96393c7a2aa",
+    "scientific_name": "terpineol",
+    "common_names": [
+      "terpineol"
+    ],
+    "category": "terpene",
+    "cas_rn": "98-55-5"
+  },
+  {
+    "ulid": "01FQFG9EJB2ZNCCGA3W92QF35G",
+    "uuid": "f5abedee-c07a-428b-ae5b-673eb27b74eb",
+    "scientific_name": "terpinolene",
+    "common_names": [
+      "terpinolene"
+    ],
+    "category": "terpene",
+    "cas_rn": "586-62-9"
+  },
+  {
+    "ulid": "018NY6XC00LMB0JPRM2SF8F9F2",
+    "uuid": "e39b5339-b891-413c-bff6-73f9d9d38da2",
+    "scientific_name": "tetrahydrocannabinol acid",
+    "common_names": [
+      "d9-thca"
+    ],
+    "category": "cannabinoid",
+    "cas_rn": "23978-85-0"
+  },
+  {
+    "ulid": "018NY6XC00LMWV6T4FB28F9JMH",
+    "uuid": "46ee0260-7858-4c2e-9c15-a9b906a224b4",
+    "scientific_name": "tetrahydrocannabivarinic acid",
+    "common_names": [
+      "thcva"
+    ],
+    "category": "cannabinoid",
+    "cas_rn": "39986-26-0"
+  },
+  {
+    "ulid": "01FQFG9EJC2Z0EFM33WDMPDETS",
+    "uuid": "f54e4fae-6ba8-4a19-b70f-994fbdd5037e",
+    "scientific_name": "thiacloprid",
+    "common_names": [
+      "thiacloprid"
+    ],
+    "category": "pesticide",
+    "cas_rn": "111988-49-9"
+  },
+  {
+    "ulid": "01FQFG9EJC2Z0EFM33WDMPDETT",
+    "uuid": "e82d6997-25ff-4055-82c7-8242c268d8e5",
+    "scientific_name": "thiamethoxam",
+    "common_names": [
+      "thiamethoxam"
+    ],
+    "category": "pesticide",
+    "cas_rn": "153719-23-4"
+  },
+  {
+    "ulid": "01FQFG9EJB2ZNCCGA3W92QF35E",
+    "uuid": "5392feb4-78fe-40fd-94c2-5a7a60d300e4",
+    "scientific_name": "thujene",
+    "common_names": [
+      "thujene"
+    ],
+    "category": "terpene",
+    "cas_rn": "3387-41-5"
+  },
+  {
+    "ulid": "01FQFG9EJC2Z0EFM33WDMPDEVG",
+    "uuid": "f059af4d-aa94-47c9-ac16-a43ccfd2b5f9",
+    "scientific_name": "thymol",
+    "common_names": [
+      "thymol"
+    ],
+    "category": "terpene",
+    "cas_rn": "89-83-8"
+  },
+  {
+    "ulid": "01FQFG9EJC2Z0EFM33WDMPDEV9",
+    "uuid": "73d21c09-90cb-4c90-9f9c-061dedb1853d",
+    "scientific_name": "toluene",
+    "common_names": [
+      "toluene"
+    ],
+    "category": "solvent",
+    "cas_rn": "108-88-3"
+  },
+  {
+    "ulid": "01FRK0CC1G0SMZT4RW3WR8QB9T",
+    "uuid": "77aca4e7-0307-4879-b8fa-0261f6b55eed",
+    "scientific_name": "total abamectins",
+    "common_names": [
+      "total abamectins",
+      "abamectins"
+    ],
+    "category": "pesticide",
+    "cas_rn": "71751-41-2"
+  },
+  {
+    "ulid": "01FRK0CC1BK6EVEN4SQ128XG32",
+    "uuid": "fb7d92cf-1b84-40b8-825f-690d4dd02efd",
+    "scientific_name": "total active cannabichromenes",
+    "common_names": [
+      "total active cbc",
+      "cannabichromenes"
+    ],
+    "category": "cannabinoid",
+    "cas_rn": ""
+  },
+  {
+    "ulid": "01FRK0CC1G0SMZT4RW3WR8QB9K",
+    "uuid": "17bb9337-ad1e-49d1-87d6-ae93c2c15334",
+    "scientific_name": "total active cannabicitrans",
+    "common_names": [
+      "total active cbt",
+      "cannabicitrans"
+    ],
+    "category": "cannabinoid",
+    "cas_rn": ""
+  },
+  {
+    "ulid": "01FRK0CC1G0SMZT4RW3WR8QB9F",
+    "uuid": "9e2c305f-5836-4335-bf2a-8c039feaf2d9",
+    "scientific_name": "total active cannabidiols",
+    "common_names": [
+      "total active cbd",
+      "cannabidiols"
+    ],
+    "category": "cannabinoid",
+    "cas_rn": ""
+  },
+  {
+    "ulid": "01FRK0CC1G0SMZT4RW3WR8QB9G",
+    "uuid": "3b51f41a-150a-4943-bc83-41508d07581f",
+    "scientific_name": "total active cannabidivarins",
+    "common_names": [
+      "total active cbdv",
+      "cannabidivarins"
+    ],
+    "category": "cannabinoid",
+    "cas_rn": ""
+  },
+  {
+    "ulid": "01FRK0CC1G0SMZT4RW3WR8QB9H",
+    "uuid": "c0da311b-763e-49b8-831b-d60ad83b2c6a",
+    "scientific_name": "total active cannabigerols",
+    "common_names": [
+      "total active cbg",
+      "cannabigerols"
+    ],
+    "category": "cannabinoid",
+    "cas_rn": ""
+  },
+  {
+    "ulid": "01FRK0CC1G0SMZT4RW3WR8QB9J",
+    "uuid": "96856191-61f3-4bab-9ec0-aad368f0e2f4",
+    "scientific_name": "total active cannabinols",
+    "common_names": [
+      "total active cbn",
+      "cannabinols"
+    ],
+    "category": "cannabinoid",
+    "cas_rn": ""
+  },
+  {
+    "ulid": "01FRK0CC1G0SMZT4RW3WR8QB9M",
+    "uuid": "6272b321-b45e-4d0b-9efa-ba74378da321",
+    "scientific_name": "total active delta-8-tetrahydrocannabinols",
+    "common_names": [
+      "total active d8-thc",
+      "delta-8-tetrahydrocannabinols"
+    ],
+    "category": "cannabinoid",
+    "cas_rn": ""
+  },
+  {
+    "ulid": "01FRK0CC1G0SMZT4RW3WR8QB9N",
+    "uuid": "49ded16f-7bc8-4804-9c03-48a229ae352f",
+    "scientific_name": "total active delta-8-tetrahydrocannabivarins",
+    "common_names": [
+      "total active d8-thcv",
+      "delta-8-tetrahydrocannabivarins"
+    ],
+    "category": "cannabinoid",
+    "cas_rn": ""
+  },
+  {
+    "ulid": "01FRK0CC1G0SMZT4RW3WR8QB9P",
+    "uuid": "06ac431e-22d4-454c-ba38-3b0921fc858b",
+    "scientific_name": "total active delta-9-tetrahydrocannabinols",
+    "common_names": [
+      "total active d9-thc",
+      "tetrahydrocannabinols"
+    ],
+    "category": "cannabinoid",
+    "cas_rn": ""
+  },
+  {
+    "ulid": "01FRK0CC1G0SMZT4RW3WR8QB9Q",
+    "uuid": "3fed089b-673c-4b93-8493-a8349758012c",
+    "scientific_name": "total active delta-9-tetrahydrocannabivarins",
+    "common_names": [
+      "total active d9-thcv",
+      "total active delta-9-tetrahydrocannabivarins"
+    ],
+    "category": "cannabinoid",
+    "cas_rn": ""
+  },
+  {
+    "ulid": "01FRK0CC1G0SMZT4RW3WR8QB9R",
+    "uuid": "eacad22c-94a2-4b4a-9181-9181328193a1",
+    "scientific_name": "total aflatoxins",
+    "common_names": [
+      "total aflatoxins",
+      "aflatoxins"
+    ],
+    "category": "mycotoxin",
+    "cas_rn": ""
+  },
+  {
+    "ulid": "01FRK0CC1G0SMZT4RW3WR8QB9Y",
+    "uuid": "4bea503b-fd03-4ffa-88ef-01a6e05d380b",
+    "scientific_name": "total butanes",
+    "common_names": [
+      "total butanes",
+      "butanes"
+    ],
+    "category": "solvent",
+    "cas_rn": "107-83-5"
+  },
+  {
+    "ulid": "01FRK0CC1G0SMZT4RW3WR8QB9Z",
+    "uuid": "04b6403f-b003-4479-a9d0-b3180d562322",
+    "scientific_name": "total heptanes",
+    "common_names": [
+      "total heptanes",
+      "heptanes"
+    ],
+    "category": "solvent",
+    "cas_rn": ""
+  },
+  {
+    "ulid": "01FRK0CC1G0SMZT4RW3WR8QBA0",
+    "uuid": "786c95b3-dcb9-4991-9ad0-3155dfd44c3a",
+    "scientific_name": "total hexanes",
+    "common_names": [
+      "total hexanes",
+      "hexanes"
+    ],
+    "category": "solvent",
+    "cas_rn": ""
+  },
+  {
+    "ulid": "01FRK0CC1G0SMZT4RW3WR8QB9S",
+    "uuid": "3dec7a84-2d94-4a3e-84fc-00833b59b9dd",
+    "scientific_name": "total ochratoxins",
+    "common_names": [
+      "total ochratoxins",
+      "ochratoxins"
+    ],
+    "category": "mycotoxin",
+    "cas_rn": ""
+  },
+  {
+    "ulid": "01FRK0CC1G0SMZT4RW3WR8QBA1",
+    "uuid": "8dbb6775-e689-4165-9350-0928f766dcff",
+    "scientific_name": "total pentanes",
+    "common_names": [
+      "total pentanes",
+      "pentanes"
+    ],
+    "category": "solvent",
+    "cas_rn": ""
+  },
+  {
+    "ulid": "01FRK0CC1G0SMZT4RW3WR8QB9V",
+    "uuid": "29a80deb-0a5d-4f87-a9a7-ac33978e75f7",
+    "scientific_name": "total permethrins",
+    "common_names": [
+      "total permethrins",
+      "permethrins"
+    ],
+    "category": "pesticide",
+    "cas_rn": ""
+  },
+  {
+    "ulid": "01FRK0CC1G0SMZT4RW3WR8QBA2",
+    "uuid": "0965e01c-835b-4743-a958-a3763a7a25e2",
+    "scientific_name": "total propanes",
+    "common_names": [
+      "total propanes",
+      "propanes"
+    ],
+    "category": "solvent",
+    "cas_rn": ""
+  },
+  {
+    "ulid": "01FRK0CC1G0SMZT4RW3WR8QB9W",
+    "uuid": "ad588acc-4c38-476b-9ac9-450f93613441",
+    "scientific_name": "total pyrethrins",
+    "common_names": [
+      "total pyrethrins",
+      "pyrethrins"
+    ],
+    "category": "pesticide",
+    "cas_rn": ""
+  },
+  {
+    "ulid": "01FRK0CC1G0SMZT4RW3WR8QB9X",
+    "uuid": "d88cb315-fb90-4999-a186-8d281b9ace3e",
+    "scientific_name": "total spinosads",
+    "common_names": [
+      "total spinosads",
+      "spinosads"
+    ],
+    "category": "pesticide",
+    "cas_rn": ""
+  },
+  {
+    "ulid": "01FRK0CC1G0SMZT4RW3WR8QBA3",
+    "uuid": "7853899d-f57a-4f5a-8e44-eb80c7f6e21a",
+    "scientific_name": "total xylenes",
+    "common_names": [
+      "total xylenes",
+      "xylenes"
+    ],
+    "category": "solvent",
+    "cas_rn": ""
+  },
+  {
+    "ulid": "01FQFG9EJC2Z0EFM33WDMPDEVJ",
+    "uuid": "c2dccf9d-3c75-4adc-b77e-b06ef16bb541",
+    "scientific_name": "trans-2-pinanol",
+    "common_names": [
+      "trans-2-pinanol"
+    ],
+    "category": "terpene",
+    "cas_rn": "4948-29-2"
+  },
+  {
+    "ulid": "01FQFG9EJC2Z0EFM33WDMPDEVK",
+    "uuid": "64dec026-e54f-4d94-8806-ab77d3ccc7ca",
+    "scientific_name": "trans-alpha-bergamotene",
+    "common_names": [
+      "trans-a-bergamotene"
+    ],
+    "category": "terpene",
+    "cas_rn": "13474-59-4"
+  },
+  {
+    "ulid": "01FQFG9EJC2Z0EFM33WDMPDEVM",
+    "uuid": "ac28c6bd-edb7-4e81-b92d-f2a714244067",
+    "scientific_name": "trans-nerolidol",
+    "common_names": [
+      "trans-nerolidol"
+    ],
+    "category": "terpene",
+    "cas_rn": "40716-66-3"
+  },
+  {
+    "ulid": "01FQFG9EJC2Z0EFM33WDMPDEV4",
+    "uuid": "43e21d47-ef0b-4b44-b28e-cb5cd7fc18cd",
+    "scientific_name": "trans-ocimene",
+    "common_names": [
+      "trans-ocimene"
+    ],
+    "category": "terpene",
+    "cas_rn": "3779-61-1"
+  },
+  {
+    "ulid": "01FQFG9EJC2Z0EFM33WDMPDEW5",
+    "uuid": "fbbe47f0-ce68-411c-84b2-789be593a4e4",
+    "scientific_name": "trans-permethrin",
+    "common_names": [
+      "trans-permethrin"
+    ],
+    "category": "pesticide",
+    "cas_rn": "52645-53-2"
+  },
+  {
+    "ulid": "01FQFG9EJC2Z0EFM33WDMPDEVB",
+    "uuid": "ebcb2792-87d2-445c-b62e-96e57ff588e7",
+    "scientific_name": "trifloxystrobin",
+    "common_names": [
+      "trifloxystrobin"
+    ],
+    "category": "pesticide",
+    "cas_rn": "141517-21-7"
+  },
+  {
+    "ulid": "01FQFG9EJC2Z0EFM33WDMPDEVC",
+    "uuid": "e5fbe0c9-f500-4cae-aa09-a29e5e7eec43",
+    "scientific_name": "uniconazole",
+    "common_names": [
+      "uniconazole"
+    ],
+    "category": "pesticide",
+    "cas_rn": "83657-22-1"
+  },
+  {
+    "ulid": "018NY6XC00LMHF4266DN94JPPX",
+    "uuid": "80eaa436-341d-4429-b5b9-6fe07910f2c7",
+    "scientific_name": "water activity",
+    "common_names": [
+      "water activity"
+    ],
+    "category": "wateractivity",
+    "cas_rn": null
+  },
+  {
+    "ulid": "018NY6XC00LMCPKZ3QB78GQXWP",
+    "uuid": "352b26ea-f771-42b5-b493-ca493e48fb7e",
+    "scientific_name": "yeast and mold",
+    "common_names": [
+      "mold"
+    ],
+    "category": "microbe",
+    "cas_rn": null
+  }
+]
