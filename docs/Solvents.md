@@ -225,7 +225,7 @@ A list of Solvent Analytes for use in interoperability.
 * ULID: `01FQFG9EJB2ZNCCGA3W92QF33P`
 * UUID: `ee2be470-5c92-4a32-9ccd-bc83f9d82e98`
 * Scientific Name: `ethyl acetate`
-* Common Names: `ethyl_acetate`
+* Common Names: `ethyl acetate`
 * Category: `solvent`
 * CAS RN: `141-78-6`
 
@@ -235,7 +235,7 @@ A list of Solvent Analytes for use in interoperability.
   "uuid": "ee2be470-5c92-4a32-9ccd-bc83f9d82e98",
   "scientific_name": "ethyl acetate",
   "common_names": [
-    "ethyl_acetate"
+    "ethyl acetate"
   ],
   "category": "solvent",
   "cas_rn": "141-78-6"
@@ -249,7 +249,7 @@ A list of Solvent Analytes for use in interoperability.
 * ULID: `01FQFG9EJB2ZNCCGA3W92QF33N`
 * UUID: `767934be-64bf-4bb4-8aa2-4d290d16963c`
 * Scientific Name: `ethyl benzene`
-* Common Names: `ethyl_benzene`
+* Common Names: `ethyl benzene`
 * Category: `solvent`
 * CAS RN: `100-41-4`
 
@@ -259,7 +259,7 @@ A list of Solvent Analytes for use in interoperability.
   "uuid": "767934be-64bf-4bb4-8aa2-4d290d16963c",
   "scientific_name": "ethyl benzene",
   "common_names": [
-    "ethyl_benzene"
+    "ethyl benzene"
   ],
   "category": "solvent",
   "cas_rn": "100-41-4"
