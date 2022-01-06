@@ -23,3 +23,7 @@ A collection of analyte names and identifiers, standardized for use in interoper
 * Solvent Totals [(docs)](https://github.com/conflabs/wcia-analytes/blob/main/docs/SolventTotals.md) [(json)](https://github.com/conflabs/wcia-analytes/blob/main/solventTotals.json)
 * Standards [(docs)](https://github.com/conflabs/wcia-analytes/blob/main/docs/Standards.md) [(json)](https://github.com/conflabs/wcia-analytes/blob/main/standards.json)
 * Terpenes [(docs)](https://github.com/conflabs/wcia-analytes/blob/main/docs/Terpenes.md) [(json)](https://github.com/conflabs/wcia-analytes/blob/main/terpenes.json)
+
+### Resources
+
+* [JSON Specification (RFC 8259)](https://www.ietf.org/rfc/rfc8259.txt)
