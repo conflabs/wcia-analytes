@@ -2,7 +2,7 @@
   {
     "ulid": "01FRK0CC1BK6EVEN4SQ128XG32",
     "uuid": "fb7d92cf-1b84-40b8-825f-690d4dd02efd",
-    "scientific_name": "total active cannabichromenes",
+    "scientific_name": "total active cannabichromene",
     "common_names": [
       "total active cbc",
       "cannabichromenes"
@@ -11,9 +11,20 @@
     "cas_rn": ""
   },
   {
-    "ulid": "01FRK0CC1G0SMZT4RW3WR8QB9F",
+    "ulid": "01FRK0CC1G0SMZT4RW3WR8QB9K",
+    "uuid": "17bb9337-ad1e-49d1-87d6-ae93c2c15334",
+    "scientific_name": "total active cannabicitran",
+    "common_names": [
+      "total active cbt",
+      "cannabicitrans"
+    ],
+    "category": "cannabinoid",
+    "cas_rn": ""
+  },
+  {
+    "ulid": "018NY6XC00DEEZ41QBXR2E3T97",
     "uuid": "9e2c305f-5836-4335-bf2a-8c039feaf2d9",
-    "scientific_name": "total active cannabidiols",
+    "scientific_name": "total active cannabidiol",
     "common_names": [
       "total active cbd",
       "cannabidiols"
@@ -24,7 +35,7 @@
   {
     "ulid": "01FRK0CC1G0SMZT4RW3WR8QB9G",
     "uuid": "3b51f41a-150a-4943-bc83-41508d07581f",
-    "scientific_name": "total active cannabidivarins",
+    "scientific_name": "total active cannabidivarin",
     "common_names": [
       "total active cbdv",
       "cannabidivarins"
@@ -35,7 +46,7 @@
   {
     "ulid": "01FRK0CC1G0SMZT4RW3WR8QB9H",
     "uuid": "c0da311b-763e-49b8-831b-d60ad83b2c6a",
-    "scientific_name": "total active cannabigerols",
+    "scientific_name": "total active cannabigerol",
     "common_names": [
       "total active cbg",
       "cannabigerols"
@@ -46,7 +57,7 @@
   {
     "ulid": "01FRK0CC1G0SMZT4RW3WR8QB9J",
     "uuid": "96856191-61f3-4bab-9ec0-aad368f0e2f4",
-    "scientific_name": "total active cannabinols",
+    "scientific_name": "total active cannabinol",
     "common_names": [
       "total active cbn",
       "cannabinols"
@@ -55,20 +66,9 @@
     "cas_rn": ""
   },
   {
-    "ulid": "01FRK0CC1G0SMZT4RW3WR8QB9K",
-    "uuid": "17bb9337-ad1e-49d1-87d6-ae93c2c15334",
-    "scientific_name": "total active cannabicitrans",
-    "common_names": [
-      "total active cbt",
-      "cannabicitrans"
-    ],
-    "category": "cannabinoid",
-    "cas_rn": ""
-  },
-  {
     "ulid": "01FRK0CC1G0SMZT4RW3WR8QB9M",
     "uuid": "6272b321-b45e-4d0b-9efa-ba74378da321",
-    "scientific_name": "total active delta-8-tetrahydrocannabinols",
+    "scientific_name": "total active delta-8-tetrahydrocannabinol",
     "common_names": [
       "total active d8-thc",
       "delta-8-tetrahydrocannabinols"
@@ -79,7 +79,7 @@
   {
     "ulid": "01FRK0CC1G0SMZT4RW3WR8QB9N",
     "uuid": "49ded16f-7bc8-4804-9c03-48a229ae352f",
-    "scientific_name": "total active delta-8-tetrahydrocannabivarins",
+    "scientific_name": "total active delta-8-tetrahydrocannabivarin",
     "common_names": [
       "total active d8-thcv",
       "delta-8-tetrahydrocannabivarins"
@@ -88,9 +88,9 @@
     "cas_rn": ""
   },
   {
-    "ulid": "01FRK0CC1G0SMZT4RW3WR8QB9P",
+    "ulid": "018NY6XC00PXG4PH0TXS014VVW",
     "uuid": "06ac431e-22d4-454c-ba38-3b0921fc858b",
-    "scientific_name": "total active delta-9-tetrahydrocannabinols",
+    "scientific_name": "total active delta-9-tetrahydrocannabinol",
     "common_names": [
       "total active d9-thc",
       "tetrahydrocannabinols"
@@ -101,7 +101,7 @@
   {
     "ulid": "01FRK0CC1G0SMZT4RW3WR8QB9Q",
     "uuid": "3fed089b-673c-4b93-8493-a8349758012c",
-    "scientific_name": "total active delta-9-tetrahydrocannabivarins",
+    "scientific_name": "total active delta-9-tetrahydrocannabivarin",
     "common_names": [
       "total active d9-thcv",
       "total active delta-9-tetrahydrocannabivarins"
