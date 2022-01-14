@@ -6,17 +6,48 @@
     "common_names": [
       "water activity"
     ],
-    "category": "wateractivity",
+    "category": "shelf stability",
     "cas_rn": null
   },
   {
-    "ulid": "01FQFG9EJC2Z0EFM33WDMPDEVN",
+    "ulid": "018NY6XC00LM0PXPG4592M8J14",
     "uuid": "7ebedc29-508c-4e2d-8d9c-8bdef50e00f7",
     "scientific_name": "all volatiles lost on drying",
     "common_names": [
-      "loss on drying"
+      "loss on drying",
+      "moisture"
     ],
-    "category": "moisture",
+    "category": "shelf stability",
+    "cas_rn": ""
+  },
+  {
+    "ulid": "018NY6XC00LM0T49T7XC7WZWYE",
+    "uuid": "28573dd6-36f8-4cd3-b659-e7252b1fa436",
+    "scientific_name": "homogeneity",
+    "common_names": [
+      "homogeneity"
+    ],
+    "category": "shelf stability",
+    "cas_rn": null
+  },
+  {
+    "ulid": "018NY6XC00LMZNYH6GBG7P12EA",
+    "uuid": "4f3a9f29-111b-469c-8bf8-def0ab6358e1",
+    "scientific_name": "visual inspection",
+    "common_names": [
+      "visual inspection"
+    ],
+    "category": "shelf stability",
+    "cas_rn": null
+  },
+  {
+    "ulid": "018NY6XC00Z36BWRQM7XXVEEFG",
+    "uuid": "543774ae-0666-4e06-b618-9d4eba62970a",
+    "scientific_name": "ph",
+    "common_names": [
+      "ph"
+    ],
+    "category": "shelf stability",
     "cas_rn": null
   }
 ]
