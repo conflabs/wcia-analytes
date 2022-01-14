@@ -9,20 +9,22 @@ A collection of analyte names and identifiers, standardized for use in interoper
 
 ### Analytes
 
-* Cannabinoids [(docs)](https://github.com/conflabs/wcia-analytes/blob/main/docs/Cannabinoids.md) [(json)](https://github.com/conflabs/wcia-analytes/blob/main/cannabinoids.json)
-* Cannabinoid Totals [(docs)](https://github.com/conflabs/wcia-analytes/blob/main/docs/CannabinoidTotals.md) [(json)](https://github.com/conflabs/wcia-analytes/blob/main/cannabinoidTotals.json)
-* Foreign Matter [(docs)](https://github.com/conflabs/wcia-analytes/blob/main/docs/ForeignMatter.md) [(json)](https://github.com/conflabs/wcia-analytes/blob/main/foreign_matter.json)
-* Heavy Metals [(docs)](https://github.com/conflabs/wcia-analytes/blob/main/docs/HeavyMetals.md) [(json)](https://github.com/conflabs/wcia-analytes/blob/main/heavyMetals.json)
-* Microbes [(docs)](https://github.com/conflabs/wcia-analytes/blob/main/docs/Microbes.md) [(json)](https://github.com/conflabs/wcia-analytes/blob/main/microbes.json)
-* Mycotoxins [(docs)](https://github.com/conflabs/wcia-analytes/blob/main/docs/Mycotoxins.md) [(json)](https://github.com/conflabs/wcia-analytes/blob/main/mycotoxins.json)
-* Mycotoxin Totals [(docs)](https://github.com/conflabs/wcia-analytes/blob/main/docs/MycotoxinTotals.md) [(json)](https://github.com/conflabs/wcia-analytes/blob/main/mycotoxinTotals.json)
-* Pesticides [(docs)](https://github.com/conflabs/wcia-analytes/blob/main/docs/Pesticides.md) [(json)](https://github.com/conflabs/wcia-analytes/blob/main/pesticides.json)
-* Pesticide Totals [(docs)](https://github.com/conflabs/wcia-analytes/blob/main/docs/PesticideTotals.md) [(json)](https://github.com/conflabs/wcia-analytes/blob/main/pesticideTotals.json)
-* Shelf Stability [(docs)](https://github.com/conflabs/wcia-analytes/blob/main/docs/ShelfStability.md) [(json)](https://github.com/conflabs/wcia-analytes/blob/main/shelfStability.json)
-* Solvents [(docs)](https://github.com/conflabs/wcia-analytes/blob/main/docs/Solvents.md) [(json)](https://github.com/conflabs/wcia-analytes/blob/main/solvents.json)
-* Solvent Totals [(docs)](https://github.com/conflabs/wcia-analytes/blob/main/docs/SolventTotals.md) [(json)](https://github.com/conflabs/wcia-analytes/blob/main/solventTotals.json)
-* Standards [(docs)](https://github.com/conflabs/wcia-analytes/blob/main/docs/Standards.md) [(json)](https://github.com/conflabs/wcia-analytes/blob/main/standards.json)
-* Terpenes [(docs)](https://github.com/conflabs/wcia-analytes/blob/main/docs/Terpenes.md) [(json)](https://github.com/conflabs/wcia-analytes/blob/main/terpenes.json)
+* All Analytes & Totals [(json)](https://github.com/conflabs/wcia-analytes/blob/main/json/allAnalytes.json)
+
+* Cannabinoids [(docs)](https://github.com/conflabs/wcia-analytes/blob/main/docs/Cannabinoids.md) [(json)](https://github.com/conflabs/wcia-analytes/blob/main/json/cannabinoids.json)
+* Cannabinoid Totals [(docs)](https://github.com/conflabs/wcia-analytes/blob/main/docs/CannabinoidTotals.md) [(json)](https://github.com/conflabs/wcia-analytes/blob/main/json/cannabinoidTotals.json)
+* Foreign Matter [(docs)](https://github.com/conflabs/wcia-analytes/blob/main/docs/ForeignMatter.md) [(json)](https://github.com/conflabs/wcia-analytes/blob/main/json/foreign_matter.json)
+* Heavy Metals [(docs)](https://github.com/conflabs/wcia-analytes/blob/main/docs/HeavyMetals.md) [(json)](https://github.com/conflabs/wcia-analytes/blob/main/json/heavyMetals.json)
+* Microbes [(docs)](https://github.com/conflabs/wcia-analytes/blob/main/docs/Microbes.md) [(json)](https://github.com/conflabs/wcia-analytes/blob/main/json/microbes.json)
+* Mycotoxins [(docs)](https://github.com/conflabs/wcia-analytes/blob/main/docs/Mycotoxins.md) [(json)](https://github.com/conflabs/wcia-analytes/blob/main/json/mycotoxins.json)
+* Mycotoxin Totals [(docs)](https://github.com/conflabs/wcia-analytes/blob/main/docs/MycotoxinTotals.md) [(json)](https://github.com/conflabs/wcia-analytes/blob/main/json/mycotoxinTotals.json)
+* Pesticides [(docs)](https://github.com/conflabs/wcia-analytes/blob/main/docs/Pesticides.md) [(json)](https://github.com/conflabs/wcia-analytes/blob/main/json/pesticides.json)
+* Pesticide Totals [(docs)](https://github.com/conflabs/wcia-analytes/blob/main/docs/PesticideTotals.md) [(json)](https://github.com/conflabs/wcia-analytes/blob/main/json/pesticideTotals.json)
+* Shelf Stability [(docs)](https://github.com/conflabs/wcia-analytes/blob/main/docs/ShelfStability.md) [(json)](https://github.com/conflabs/wcia-analytes/blob/main/json/shelfStability.json)
+* Solvents [(docs)](https://github.com/conflabs/wcia-analytes/blob/main/docs/Solvents.md) [(json)](https://github.com/conflabs/wcia-analytes/blob/main/json/solvents.json)
+* Solvent Totals [(docs)](https://github.com/conflabs/wcia-analytes/blob/main/docs/SolventTotals.md) [(json)](https://github.com/conflabs/wcia-analytes/blob/main/json/solventTotals.json)
+* Standards [(docs)](https://github.com/conflabs/wcia-analytes/blob/main/docs/Standards.md) [(json)](https://github.com/conflabs/wcia-analytes/blob/main/json/standards.json)
+* Terpenes [(docs)](https://github.com/conflabs/wcia-analytes/blob/main/docs/Terpenes.md) [(json)](https://github.com/conflabs/wcia-analytes/blob/main/json/terpenes.json)
 
 ### Resources
 
