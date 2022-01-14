@@ -18,7 +18,7 @@
       "cd",
       "cadmium"
     ],
-    "category": "heavy metal",
+    "category": "metal",
     "cas_rn": "7440-43-9"
   },
   {
@@ -48,9 +48,10 @@
     "uuid": "9b20c8a4-2695-424e-bf2f-cd4160f23251",
     "scientific_name": "boron",
     "common_names": [
+      "b",
       "boron"
     ],
-    "category": "heavy metal",
+    "category": "metal",
     "cas_rn": null
   },
   {
@@ -58,9 +59,10 @@
     "uuid": "ac5d6dbb-24fb-42d4-9f7f-723ec594a9d4",
     "scientific_name": "sulfur",
     "common_names": [
+      "s",
       "sulfur"
     ],
-    "category": "heavy metal",
+    "category": "metal",
     "cas_rn": null
   },
   {
@@ -68,9 +70,10 @@
     "uuid": "1a1cf34e-4dc8-4961-80a7-005974e68ba9",
     "scientific_name": "potassium",
     "common_names": [
+      "k",
       "potassium"
     ],
-    "category": "heavy metal",
+    "category": "metal",
     "cas_rn": null
   },
   {
@@ -78,9 +81,10 @@
     "uuid": "55df9d4e-4004-4fb1-9918-a2c5429be46e",
     "scientific_name": "magnesium",
     "common_names": [
+      "mg",
       "magnesium"
     ],
-    "category": "heavy metal",
+    "category": "metal",
     "cas_rn": null
   },
   {
@@ -88,9 +92,10 @@
     "uuid": "87d245e6-efc2-4b8e-8f4c-a217122f4475",
     "scientific_name": "calcium",
     "common_names": [
+      "ca",
       "calcium"
     ],
-    "category": "heavy metal",
+    "category": "metal",
     "cas_rn": null
   },
   {
@@ -98,9 +103,10 @@
     "uuid": "8d0d87c0-f35b-40be-89f7-2ae1139a2862",
     "scientific_name": "sodium",
     "common_names": [
+      "na",
       "sodium"
     ],
-    "category": "heavy metal",
+    "category": "metal",
     "cas_rn": null
   },
   {
@@ -108,9 +114,10 @@
     "uuid": "dfcb8b3e-b4ae-4e72-9f0c-48a3cb787a5f",
     "scientific_name": "manganese",
     "common_names": [
+      "mn",
       "manganese"
     ],
-    "category": "heavy metal",
+    "category": "metal",
     "cas_rn": null
   },
   {
@@ -118,9 +125,10 @@
     "uuid": "01139969-9df9-4906-8430-b0ac8f6e068b",
     "scientific_name": "phosphorus",
     "common_names": [
+      "p",
       "phosphorus"
     ],
-    "category": "heavy metal",
+    "category": "metal",
     "cas_rn": null
   },
   {
@@ -128,9 +136,10 @@
     "uuid": "533b9021-8b91-4c30-9a63-3a9da8c589e1",
     "scientific_name": "molybdenum",
     "common_names": [
+      "mo",
       "molybdenum"
     ],
-    "category": "heavy metal",
+    "category": "metal",
     "cas_rn": null
   },
   {
@@ -138,9 +147,10 @@
     "uuid": "6f6afc14-0773-45b1-8d28-49e18a0a5754",
     "scientific_name": "copper",
     "common_names": [
+      "cu",
       "copper"
     ],
-    "category": "heavy metal",
+    "category": "metal",
     "cas_rn": null
   },
   {
@@ -148,9 +158,10 @@
     "uuid": "9e7948d6-640f-407a-8fac-37d45abca730",
     "scientific_name": "zinc",
     "common_names": [
+      "zn",
       "zinc"
     ],
-    "category": "heavy metal",
+    "category": "metal",
     "cas_rn": null
   },
   {
@@ -158,9 +169,10 @@
     "uuid": "c0b78bd2-c137-448d-9916-4403c4e93900",
     "scientific_name": "iron",
     "common_names": [
+      "fe",
       "iron"
     ],
-    "category": "heavy metal",
+    "category": "metal",
     "cas_rn": null
   }
 ]
