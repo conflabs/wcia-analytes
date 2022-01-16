@@ -92,9 +92,10 @@
   {
     "ulid": "018NY6XC00LM877GAKMFPK7BMC",
     "uuid": "0b48c7b3-c89b-4699-af3e-099cdb6972b6",
-    "scientific_name": "delta-8-tetrahydrocannabinol",
+    "scientific_name": "delta(8)-tetrahydrocannabinol",
     "common_names": [
-      "d8-thc"
+      "d8-thc",
+      "delta-8-tetrahydrocannabinol"
     ],
     "category": "cannabinoid",
     "cas_rn": "5957-75-5"
@@ -105,6 +106,7 @@
     "scientific_name": "delta-8-tetrahydrocannabivarin",
     "common_names": [
       "d8-thcv",
+      "delta-8-tetrahydrocannabivarin",
       "propyl-delta(8)-tetrahydrocannabinol"
     ],
     "category": "cannabinoid",
@@ -113,9 +115,11 @@
   {
     "ulid": "018NY6XC00LM49CV7QP9KM9QH9",
     "uuid": "25ff0364-4c5f-43be-a278-704cd41232e6",
-    "scientific_name": "delta-9-tetrahydrocannabinol",
+    "scientific_name": "delta(9)-tetrahydrocannabinol",
     "common_names": [
-      "d9-thc"
+      "thc",
+      "d9-thc",
+      "delta(9)-tetrahydrocannabinol"
     ],
     "category": "cannabinoid",
     "cas_rn": "1972-08-3"
@@ -123,9 +127,11 @@
   {
     "ulid": "018NY6XC00LMEXWB3ENZ1MK7R4",
     "uuid": "36cac75e-d055-4101-990f-1797d3745439",
-    "scientific_name": "delta-9-tetrahydrocannabivarin",
+    "scientific_name": "delta(9)-tetrahydrocannabivarin",
     "common_names": [
-      "thcv"
+      "thcv",
+      "d9-thcv",
+      "delta-9-tetrahydrocannabivarin"
     ],
     "category": "cannabinoid",
     "cas_rn": "31262-37-0"
@@ -135,7 +141,9 @@
     "uuid": "e39b5339-b891-413c-bff6-73f9d9d38da2",
     "scientific_name": "delta-9-tetrahydrocannabinolic acid",
     "common_names": [
-      "d9-thca"
+      "thca",
+      "d9-thca",
+      "delta-9-tetrahydrocannabinolic acid"
     ],
     "category": "cannabinoid",
     "cas_rn": "23978-85-0"
@@ -143,9 +151,11 @@
   {
     "ulid": "018NY6XC00LMWV6T4FB28F9JMH",
     "uuid": "46ee0260-7858-4c2e-9c15-a9b906a224b4",
-    "scientific_name": "delta-9-tetrahydrocannabivarinic acid",
+    "scientific_name": "delta(9)-tetrahydrocannabivarinic acid",
     "common_names": [
-      "thcva"
+      "thcva",
+      "d9-thcva",
+      "delta-9-tetrahydrocannabivarinic acid"
     ],
     "category": "cannabinoid",
     "cas_rn": "39986-26-0"
