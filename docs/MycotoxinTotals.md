@@ -1,5 +1,5 @@
-# MycotoxinTotals
-A list of MycotoxinTotals Analytes for use in interoperability.
+# Mycotoxin Totals
+A list of Mycotoxin Totals Analytes for use in interoperability.
 
 ----------------------------------------
 

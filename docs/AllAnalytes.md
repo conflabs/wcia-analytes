@@ -1,5 +1,5 @@
-# AllAnalytes
-A list of AllAnalytes Analytes for use in interoperability.
+# All Analytes
+A list of All Analytes for use in interoperability.
 
 ----------------------------------------
 

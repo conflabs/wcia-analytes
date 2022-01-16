@@ -1,5 +1,5 @@
-# CannabinoidTotals
-A list of CannabinoidTotals Analytes for use in interoperability.
+# Cannabinoid Totals
+A list of Cannabinoid Totals Analytes for use in interoperability.
 
 ----------------------------------------
 
