@@ -1,5 +1,5 @@
-# Shelf Stability
-A list of Shelf Stability Analytes for use in interoperability.
+# ShelfStability
+A list of ShelfStability Analytes for use in interoperability.
 
 ----------------------------------------
 
