@@ -1,5 +1,5 @@
-# Heav yMetals
-A list of Heavy Metals Analytes for use in interoperability.
+# Metals
+A list of Metals Analytes for use in interoperability.
 
 ----------------------------------------
 
