@@ -1,5 +1,5 @@
 # Solvent Totals
-A list of Solvent Analytes Totals for use in interoperability.
+A list of Solvent Totals Analytes for use in interoperability.
 
 ----------------------------------------
 

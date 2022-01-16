@@ -9,7 +9,7 @@ A collection of analyte names and identifiers, standardized for use in interoper
 
 ### Analytes
 
-* All Analytes & Totals [(json)](https://github.com/conflabs/wcia-analytes/blob/main/json/allAnalytes.json)
+* All Analytes & Totals [(docs)](https://github.com/conflabs/wcia-analytes/blob/main/docs/AllAnalytes.md) [(json)](https://github.com/conflabs/wcia-analytes/blob/main/json/allAnalytes.json)
 
 * Cannabinoids [(docs)](https://github.com/conflabs/wcia-analytes/blob/main/docs/Cannabinoids.md) [(json)](https://github.com/conflabs/wcia-analytes/blob/main/json/cannabinoids.json)
 * Cannabinoid Totals [(docs)](https://github.com/conflabs/wcia-analytes/blob/main/docs/CannabinoidTotals.md) [(json)](https://github.com/conflabs/wcia-analytes/blob/main/json/cannabinoidTotals.json)

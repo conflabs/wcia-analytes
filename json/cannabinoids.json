@@ -103,7 +103,7 @@
   {
     "ulid": "018NY6XC00VGBEM8CDWPX8J0MB",
     "uuid": "5881991d-6bd3-4502-8556-dec52fa88691",
-    "scientific_name": "delta-8-tetrahydrocannabivarin",
+    "scientific_name": "delta(8)-tetrahydrocannabivarin",
     "common_names": [
       "d8-thcv",
       "delta-8-tetrahydrocannabivarin",
@@ -139,7 +139,7 @@
   {
     "ulid": "018NY6XC00LMB0JPRM2SF8F9F2",
     "uuid": "e39b5339-b891-413c-bff6-73f9d9d38da2",
-    "scientific_name": "delta-9-tetrahydrocannabinolic acid",
+    "scientific_name": "delta(9)-tetrahydrocannabinolic acid",
     "common_names": [
       "thca",
       "d9-thca",

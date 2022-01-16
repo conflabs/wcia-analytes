@@ -1,5 +1,5 @@
 # Pesticide Totals
-A list of Pesticide Analytes Totals for use in interoperability.
+A list of Pesticide Totals Analytes for use in interoperability.
 
 ----------------------------------------
 
