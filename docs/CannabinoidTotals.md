@@ -1,5 +1,5 @@
-# Cannabinoid Totals
-A list of Cannabinoid Analytes Totals for use in interoperability.
+# CannabinoidTotals
+A list of CannabinoidTotals Analytes for use in interoperability.
 
 ----------------------------------------
 
@@ -153,12 +153,12 @@ A list of Cannabinoid Analytes Totals for use in interoperability.
 
 ----------------------------------------
 
-## Total Active Delta-8-tetrahydrocannabinol
+## Total Active Delta(8)-tetrahydrocannabinol
 
 * ULID: `01FRK0CC1G0SMZT4RW3WR8QB9M`
 * UUID: `6272b321-b45e-4d0b-9efa-ba74378da321`
-* Scientific Name: `total active delta-8-tetrahydrocannabinol`
-* Common Names: `total active d8-thc, delta-8-tetrahydrocannabinols`
+* Scientific Name: `total active delta(8)-tetrahydrocannabinol`
+* Common Names: `total active d8-thc, total active delta-8-tetrahydrocannabinol`
 * Category: `cannabinoid`
 * CAS RN: ``
 
@@ -166,10 +166,10 @@ A list of Cannabinoid Analytes Totals for use in interoperability.
 {
     "ulid": "01FRK0CC1G0SMZT4RW3WR8QB9M",
     "uuid": "6272b321-b45e-4d0b-9efa-ba74378da321",
-    "scientific_name": "total active delta-8-tetrahydrocannabinol",
+    "scientific_name": "total active delta(8)-tetrahydrocannabinol",
     "common_names": [
         "total active d8-thc",
-        "delta-8-tetrahydrocannabinols"
+        "total active delta-8-tetrahydrocannabinol"
     ],
     "category": "cannabinoid",
     "cas_rn": ""
@@ -178,12 +178,12 @@ A list of Cannabinoid Analytes Totals for use in interoperability.
 
 ----------------------------------------
 
-## Total Active Delta-8-tetrahydrocannabivarin
+## Total Active Delta(8)-tetrahydrocannabivarin
 
 * ULID: `01FRK0CC1G0SMZT4RW3WR8QB9N`
 * UUID: `49ded16f-7bc8-4804-9c03-48a229ae352f`
-* Scientific Name: `total active delta-8-tetrahydrocannabivarin`
-* Common Names: `total active d8-thcv, delta-8-tetrahydrocannabivarins`
+* Scientific Name: `total active delta(8)-tetrahydrocannabivarin`
+* Common Names: `total active d8-thcv, total active delta-8-tetrahydrocannabivarin`
 * Category: `cannabinoid`
 * CAS RN: ``
 
@@ -191,10 +191,10 @@ A list of Cannabinoid Analytes Totals for use in interoperability.
 {
     "ulid": "01FRK0CC1G0SMZT4RW3WR8QB9N",
     "uuid": "49ded16f-7bc8-4804-9c03-48a229ae352f",
-    "scientific_name": "total active delta-8-tetrahydrocannabivarin",
+    "scientific_name": "total active delta(8)-tetrahydrocannabivarin",
     "common_names": [
         "total active d8-thcv",
-        "delta-8-tetrahydrocannabivarins"
+        "total active delta-8-tetrahydrocannabivarin"
     ],
     "category": "cannabinoid",
     "cas_rn": ""
@@ -203,12 +203,12 @@ A list of Cannabinoid Analytes Totals for use in interoperability.
 
 ----------------------------------------
 
-## Total Active Delta-9-tetrahydrocannabinol
+## Total Active Delta(9)-tetrahydrocannabinol
 
 * ULID: `018NY6XC00PXG4PH0TXS014VVW`
 * UUID: `06ac431e-22d4-454c-ba38-3b0921fc858b`
-* Scientific Name: `total active delta-9-tetrahydrocannabinol`
-* Common Names: `total active d9-thc, tetrahydrocannabinols`
+* Scientific Name: `total active delta(9)-tetrahydrocannabinol`
+* Common Names: `total active d9-thc, total active delta-9-tetrahydrocannabinol`
 * Category: `cannabinoid`
 * CAS RN: ``
 
@@ -216,10 +216,10 @@ A list of Cannabinoid Analytes Totals for use in interoperability.
 {
     "ulid": "018NY6XC00PXG4PH0TXS014VVW",
     "uuid": "06ac431e-22d4-454c-ba38-3b0921fc858b",
-    "scientific_name": "total active delta-9-tetrahydrocannabinol",
+    "scientific_name": "total active delta(9)-tetrahydrocannabinol",
     "common_names": [
         "total active d9-thc",
-        "tetrahydrocannabinols"
+        "total active delta-9-tetrahydrocannabinol"
     ],
     "category": "cannabinoid",
     "cas_rn": ""
@@ -228,12 +228,12 @@ A list of Cannabinoid Analytes Totals for use in interoperability.
 
 ----------------------------------------
 
-## Total Active Delta-9-tetrahydrocannabivarin
+## Total Active Delta(9)-tetrahydrocannabivarin
 
 * ULID: `01FRK0CC1G0SMZT4RW3WR8QB9Q`
 * UUID: `3fed089b-673c-4b93-8493-a8349758012c`
-* Scientific Name: `total active delta-9-tetrahydrocannabivarin`
-* Common Names: `total active d9-thcv, total active delta-9-tetrahydrocannabivarins`
+* Scientific Name: `total active delta(9)-tetrahydrocannabivarin`
+* Common Names: `total active d9-thcv, total active delta-9-tetrahydrocannabivarin`
 * Category: `cannabinoid`
 * CAS RN: ``
 
@@ -241,10 +241,10 @@ A list of Cannabinoid Analytes Totals for use in interoperability.
 {
     "ulid": "01FRK0CC1G0SMZT4RW3WR8QB9Q",
     "uuid": "3fed089b-673c-4b93-8493-a8349758012c",
-    "scientific_name": "total active delta-9-tetrahydrocannabivarin",
+    "scientific_name": "total active delta(9)-tetrahydrocannabivarin",
     "common_names": [
         "total active d9-thcv",
-        "total active delta-9-tetrahydrocannabivarins"
+        "total active delta-9-tetrahydrocannabivarin"
     ],
     "category": "cannabinoid",
     "cas_rn": ""
