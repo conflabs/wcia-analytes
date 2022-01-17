@@ -2,6 +2,9 @@
 
 ----------------------------------------
 
+##### v0.9.8 -- UUID key removed from all objects
+UUIDs removed, and ULIDs retained as primary keys.
+
 ##### v0.9.7 -- UUID Preservation Branch
 This branch is being committed to preserve the original object containing UUIDs.
 
