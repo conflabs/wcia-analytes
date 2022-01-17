@@ -1,7 +1,6 @@
 [
   {
     "ulid": "01FSJKX3CJMXVD6SJ5WGMT77WD",
-    "uuid": "acbe2dd0-f254-4c13-bf03-5f8ae240a4d9",
     "scientific_name": "total monoterpenes",
     "common_names": [
       "monoterpenes",
@@ -22,7 +21,6 @@
 },
   {
     "ulid": "01FSJKX3CJ31G3H8S02Y7F4KC6",
-    "uuid": "36806de0-01ac-4045-895b-5301cbd017c4",
     "scientific_name": "total sesquiterpenes",
     "common_names": [
       "sesquiterpenes",
@@ -33,7 +31,6 @@
   },
   {
     "ulid": "01FSJKX3CJGVSV9KCZRQ74QQG4",
-    "uuid": "a0dc8531-99d0-43cf-bf36-fd107cbfd55e",
     "scientific_name": "total sesquiterpenoids",
     "common_names": [
       "sesquiterpenoids",
@@ -44,7 +41,6 @@
   },
   {
     "ulid": "01FSJKX3CJ60WAR8KB8MGQNQC4",
-    "uuid": "3ad0e51f-87b6-4cc3-b7e4-826216ff083c",
     "scientific_name": "total terpenes",
     "common_names": [
       "terpenes",
