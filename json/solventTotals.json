@@ -1,7 +1,6 @@
 [
   {
     "ulid": "01FRK0CC1G0SMZT4RW3WR8QB9Y",
-    "uuid": "4bea503b-fd03-4ffa-88ef-01a6e05d380b",
     "scientific_name": "total butanes",
     "common_names": [
       "total butanes",
@@ -12,7 +11,6 @@
   },
   {
     "ulid": "01FRK0CC1G0SMZT4RW3WR8QB9Z",
-    "uuid": "04b6403f-b003-4479-a9d0-b3180d562322",
     "scientific_name": "total heptanes",
     "common_names": [
       "total heptanes",
@@ -23,7 +21,6 @@
   },
   {
     "ulid": "01FRK0CC1G0SMZT4RW3WR8QBA0",
-    "uuid": "786c95b3-dcb9-4991-9ad0-3155dfd44c3a",
     "scientific_name": "total hexanes",
     "common_names": [
       "total hexanes",
@@ -34,7 +31,6 @@
   },
   {
     "ulid": "01FRK0CC1G0SMZT4RW3WR8QBA1",
-    "uuid": "8dbb6775-e689-4165-9350-0928f766dcff",
     "scientific_name": "total pentanes",
     "common_names": [
       "total pentanes",
@@ -45,7 +41,6 @@
   },
   {
     "ulid": "01FRK0CC1G0SMZT4RW3WR8QBA2",
-    "uuid": "0965e01c-835b-4743-a958-a3763a7a25e2",
     "scientific_name": "total propanes",
     "common_names": [
       "total propanes",
@@ -56,7 +51,6 @@
   },
   {
     "ulid": "01FRK0CC1G0SMZT4RW3WR8QBA3",
-    "uuid": "7853899d-f57a-4f5a-8e44-eb80c7f6e21a",
     "scientific_name": "total xylenes",
     "common_names": [
       "total xylenes",

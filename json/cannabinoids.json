@@ -1,7 +1,6 @@
 [
   {
     "ulid": "018NY6XC00LM50KG4SS3BDPAGX",
-    "uuid": "4fd58aac-666a-4481-b048-8fb6caab7e30",
     "scientific_name": "cannabichromene",
     "common_names": [
       "cbc"
@@ -11,7 +10,6 @@
   },
   {
     "ulid": "018NY6XC00LMQKS6HXP2KFY91E",
-    "uuid": "0a696ec7-dd52-40b0-a482-86b6fdeda17c",
     "scientific_name": "cannabicitran",
     "common_names": [
       "cbt"
@@ -21,7 +19,6 @@
   },
   {
     "ulid": "018NY6XC00LMK7KHD3HPW0Y90N",
-    "uuid": "c5ceb2ad-8a6c-493f-8945-f1b766009fa4",
     "scientific_name": "cannabidiol",
     "common_names": [
       "cbd"
@@ -31,7 +28,6 @@
   },
   {
     "ulid": "018NY6XC00LMENDHEH2Y32X903",
-    "uuid": "9e084d7c-6075-43c5-80fa-d05518cdcf4a",
     "scientific_name": "cannabidiolic acid",
     "common_names": [
       "cbda"
@@ -41,7 +37,6 @@
   },
   {
     "ulid": "018NY6XC00LMZGPEH1Z4VY04RJ",
-    "uuid": "450dcd35-fc4a-4969-b8ea-784808f40a7a",
     "scientific_name": "cannabidivarin",
     "common_names": [
       "cbdv"
@@ -51,7 +46,6 @@
   },
   {
     "ulid": "018NY6XC00M27M46SED0ZZCSQZ",
-    "uuid": "d78e5e7c-0bc2-4361-b6ae-65950445f632",
     "scientific_name": "cannabidivarinic acid",
     "common_names": [
       "cbdva"
@@ -61,7 +55,6 @@
   },
   {
     "ulid": "018NY6XC00LMXRFMR5NJ35ZBAX",
-    "uuid": "1af8584b-bee4-4329-82f7-374e1f268ef0",
     "scientific_name": "cannabigerol",
     "common_names": [
       "cbg"
@@ -71,7 +64,6 @@
   },
   {
     "ulid": "018NY6XC00LMAKFJY80QDMWF7F",
-    "uuid": "2af54850-b29b-4b15-bc55-fcb3875ccc94",
     "scientific_name": "cannabigerolic acid",
     "common_names": [
       "cbga"
@@ -81,7 +73,6 @@
   },
   {
     "ulid": "018NY6XC00LM3W3G1ERAF2QEF5",
-    "uuid": "f02fd404-4e75-4abc-8613-49966d2abbf6",
     "scientific_name": "cannabinol",
     "common_names": [
       "cbn"
@@ -91,7 +82,6 @@
   },
   {
     "ulid": "018NY6XC00LM877GAKMFPK7BMC",
-    "uuid": "0b48c7b3-c89b-4699-af3e-099cdb6972b6",
     "scientific_name": "delta(8)-tetrahydrocannabinol",
     "common_names": [
       "d8-thc",
@@ -102,7 +92,6 @@
   },
   {
     "ulid": "018NY6XC00VGBEM8CDWPX8J0MB",
-    "uuid": "5881991d-6bd3-4502-8556-dec52fa88691",
     "scientific_name": "delta(8)-tetrahydrocannabivarin",
     "common_names": [
       "d8-thcv",
@@ -114,7 +103,6 @@
   },
   {
     "ulid": "018NY6XC00LM49CV7QP9KM9QH9",
-    "uuid": "25ff0364-4c5f-43be-a278-704cd41232e6",
     "scientific_name": "delta(9)-tetrahydrocannabinol",
     "common_names": [
       "thc",
@@ -126,7 +114,6 @@
   },
   {
     "ulid": "018NY6XC00LMEXWB3ENZ1MK7R4",
-    "uuid": "36cac75e-d055-4101-990f-1797d3745439",
     "scientific_name": "delta(9)-tetrahydrocannabivarin",
     "common_names": [
       "thcv",
@@ -138,7 +125,6 @@
   },
   {
     "ulid": "018NY6XC00LMB0JPRM2SF8F9F2",
-    "uuid": "e39b5339-b891-413c-bff6-73f9d9d38da2",
     "scientific_name": "delta(9)-tetrahydrocannabinolic acid",
     "common_names": [
       "thca",
@@ -150,7 +136,6 @@
   },
   {
     "ulid": "018NY6XC00LMWV6T4FB28F9JMH",
-    "uuid": "46ee0260-7858-4c2e-9c15-a9b906a224b4",
     "scientific_name": "delta(9)-tetrahydrocannabivarinic acid",
     "common_names": [
       "thcva",
@@ -162,7 +147,6 @@
   },
   {
     "ulid": "018NY6XC002WFCED62VNTDAJBB",
-    "uuid": "5fb9441f-9522-46dd-b060-9bf623e52532",
     "scientific_name": "cannabinolic acid",
     "common_names": [
       "cbna"
@@ -172,7 +156,6 @@
   },
   {
     "ulid": "018NY6XC00LM74YZAGG90X06MC",
-    "uuid": "7a269387-4659-44d0-9362-dcfe1fb70bc5",
     "scientific_name": "cannabichromenic acid",
     "common_names": [
       "cbca"
@@ -182,7 +165,6 @@
   },
   {
     "ulid": "018NY6XC00LMDGYF2W1G9T0W9C",
-    "uuid": "4714412d-7e13-4aff-b242-e1f38fd5a2cd",
     "scientific_name": "cannabielsoin",
     "common_names": [
       "cbe"
@@ -192,7 +174,6 @@
   },
   {
     "ulid": "018NY6XC00LMETFEEFJT0JAKNE",
-    "uuid": "96d65017-4a76-447b-bfc4-87f8c961883a",
     "scientific_name": "cannabigerovarin",
     "common_names": [
       "cbgv"
@@ -202,7 +183,6 @@
   },
   {
     "ulid": "018NY6XC00LMT10GKMBED4KZWK",
-    "uuid": "8501d154-939b-40ac-99b3-727cfc2c3865",
     "scientific_name": "cannabichromevarin",
     "common_names": [
       "cbcv"
@@ -212,7 +192,6 @@
   },
   {
     "ulid": "018NY6XC00LMZZ776J7YTKR49R",
-    "uuid": "ebd8730d-ad18-423a-bb67-667d08d8c8ca",
     "scientific_name": "cannabicyclol",
     "common_names": [
       "cbl"
@@ -222,7 +201,6 @@
   },
   {
     "ulid": "018NY6XC00T2ZJXXZA3HHXW6N3",
-    "uuid": "3b6a17ac-2440-48cc-beb5-dc5f9c66fa4c",
     "scientific_name": "cannabicyclolic acid",
     "common_names": [
       "cbla"
