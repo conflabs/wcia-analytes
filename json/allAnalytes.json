@@ -2453,6 +2453,16 @@
     "cas_rn": null
   },
   {
+    "ulid": "01FSWJF1C0TGZ76H3GMDQMW39F",
+    "scientific_name": "1,4-epoxybutane",
+    "common_names": [
+      "tetrahydrofuran",
+      "oxolane"
+    ],
+    "category": "solvent",
+    "cas_rn": "109-99-9"
+  },
+  {
     "ulid": "01FRK0CC1G0SMZT4RW3WR8QB9Y",
     "scientific_name": "total butanes",
     "common_names": [
