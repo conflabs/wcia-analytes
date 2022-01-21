@@ -328,17 +328,16 @@
     ],
     "category": "foreign matter",
     "cas_rn": null
-  },
-  {
-    "ulid": "018NY6XC00LM4E4T6EPA7WPHDK",
-    "scientific_name": "arsenic",
-    "common_names": [
-      "as",
-      "arsenic"
-    ],
-    "category": "metalloid",
-    "cas_rn": "7440-38-2"
-  },
+  },{
+  "ulid": "018NY6XC00LM4E4T6EPA7WPHDK",
+  "scientific_name": "arsenic",
+  "common_names": [
+    "as",
+    "arsenic"
+  ],
+  "category": "metalloid",
+  "cas_rn": "7440-38-2"
+},
   {
     "ulid": "018NY6XC00LMGNGNEW1XMNRS8S",
     "scientific_name": "cadmium",
@@ -3157,6 +3156,7 @@
     "ulid": "01FSXQ2SC9S6TT3CAJ5EAX173W",
     "scientific_name": "alpha-farnesene",
     "common_names": [
+      "alpha-farnesene",
       "trans-alpha-farnesene",
       "a-farnesene"
     ],
@@ -3167,6 +3167,7 @@
     "ulid":  "01FSXQ2SC9Q3EWN1AM0DQ7VJRX",
     "scientific_name": "beta-farnesene",
     "common_names":  [
+      "beta-farnesene",
       "trans-beta-farnesene",
       "b-farnesene"
     ],
@@ -3205,6 +3206,7 @@
     "ulid":  "01FSXQ2SC90MRBSSTKPWNTG3YG",
     "scientific_name": "o-cymene",
     "common_names":  [
+      "o-cymene",
       "o-isopropyltoluene"
     ],
     "category":  "terpene",
@@ -3223,6 +3225,7 @@
     "ulid":  "01FSXQ2SC9SH6S8MGTR9TTP8BH",
     "scientific_name": "m-cymene",
     "common_names":  [
+      "m-cymene",
       "m-isopropyltoluene"
     ],
     "category":  "terpene",
@@ -3283,17 +3286,18 @@
     ],
     "category": "terpene",
     "cas_rn": ""
-  },{
-  "ulid": "01FSJKX3CJ52X8GBMZ99VWXWXS",
-  "uuid": "a2a4a868-767e-4aa5-8cde-238d856f6092",
-  "scientific_name": "total monoterpenoids",
-  "common_names": [
-    "monoterpenoids",
-    "sum monoterpenoids"
-  ],
-  "category": "terpene",
-  "cas_rn": ""
-},
+  },
+  {
+    "ulid": "01FSJKX3CJ52X8GBMZ99VWXWXS",
+    "uuid": "a2a4a868-767e-4aa5-8cde-238d856f6092",
+    "scientific_name": "total monoterpenoids",
+    "common_names": [
+      "monoterpenoids",
+      "sum monoterpenoids"
+    ],
+    "category": "terpene",
+    "cas_rn": ""
+  },
   {
     "ulid": "01FSJKX3CJ31G3H8S02Y7F4KC6",
     "scientific_name": "total sesquiterpenes",
