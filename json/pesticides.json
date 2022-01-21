@@ -54,24 +54,6 @@
     "cas_rn": "116-06-3"
   },
   {
-    "ulid": "018NY6XC00LMK2VVW868567PHD",
-    "scientific_name": "azoxystrobin",
-    "common_names": [
-      "azoxystrobin"
-    ],
-    "category": "pesticide",
-    "cas_rn": "131860-33-8"
-  },
-  {
-    "ulid": "018NY6XC00LMKCE4E30P3R72SK",
-    "scientific_name": "bifenazate",
-    "common_names": [
-      "bifenazate"
-    ],
-    "category": "pesticide",
-    "cas_rn": "149877-41-8"
-  },
-  {
     "ulid": "018NY6XC00LMPH4K88KC1PKJVJ",
     "scientific_name": "bifenthrin",
     "common_names": [
@@ -232,15 +214,6 @@
     ],
     "category": "pesticide",
     "cas_rn": "80844-07-1"
-  },
-  {
-    "ulid": "01FQFG9EJB2ZNCCGA3W92QF34K",
-    "scientific_name": "etoxazole",
-    "common_names": [
-      "etoxazole"
-    ],
-    "category": "pesticide",
-    "cas_rn": "153233-91-1"
   },
   {
     "ulid": "018NY6XC00LMGN496XNG04YCKA",
@@ -1264,15 +1237,6 @@
     "scientific_name": "methamidophos",
     "common_names": [
       "methamidophos"
-    ],
-    "category": "pesticide",
-    "cas_rn": null
-  },
-  {
-    "ulid": "018NY6XC00WHBFGHPDBB756NTZ",
-    "scientific_name": "chlorantraniliprole",
-    "common_names": [
-      "chlorantraniliprole"
     ],
     "category": "pesticide",
     "cas_rn": null
