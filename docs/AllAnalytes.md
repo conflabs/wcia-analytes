@@ -7633,7 +7633,7 @@ A list of AllAnalytes Analytes for use in interoperability.
 
 * ULID: `01FSXQ2SC9S6TT3CAJ5EAX173W`
 * Scientific Name: `alpha-farnesene`
-* Common Names: `trans-alpha-farnesene, a-farnesene`
+* Common Names: `alpha-farnesene, trans-alpha-farnesene, a-farnesene`
 * Category: `terpene`
 * CAS RN: `502-61-4`
 
@@ -7642,6 +7642,7 @@ A list of AllAnalytes Analytes for use in interoperability.
     "ulid": "01FSXQ2SC9S6TT3CAJ5EAX173W",
     "scientific_name": "alpha-farnesene",
     "common_names": [
+        "alpha-farnesene",
         "trans-alpha-farnesene",
         "a-farnesene"
     ],
@@ -7656,7 +7657,7 @@ A list of AllAnalytes Analytes for use in interoperability.
 
 * ULID: `01FSXQ2SC9Q3EWN1AM0DQ7VJRX`
 * Scientific Name: `beta-farnesene`
-* Common Names: `trans-beta-farnesene, b-farnesene`
+* Common Names: `beta-farnesene, trans-beta-farnesene, b-farnesene`
 * Category: `terpene`
 * CAS RN: `18794-84-8`
 
@@ -7665,6 +7666,7 @@ A list of AllAnalytes Analytes for use in interoperability.
     "ulid": "01FSXQ2SC9Q3EWN1AM0DQ7VJRX",
     "scientific_name": "beta-farnesene",
     "common_names": [
+        "beta-farnesene",
         "trans-beta-farnesene",
         "b-farnesene"
     ],
@@ -7746,7 +7748,7 @@ A list of AllAnalytes Analytes for use in interoperability.
 
 * ULID: `01FSXQ2SC90MRBSSTKPWNTG3YG`
 * Scientific Name: `o-cymene`
-* Common Names: `o-isopropyltoluene`
+* Common Names: `o-cymene, o-isopropyltoluene`
 * Category: `terpene`
 * CAS RN: `527-84-4`
 
@@ -7755,6 +7757,7 @@ A list of AllAnalytes Analytes for use in interoperability.
     "ulid": "01FSXQ2SC90MRBSSTKPWNTG3YG",
     "scientific_name": "o-cymene",
     "common_names": [
+        "o-cymene",
         "o-isopropyltoluene"
     ],
     "category": "terpene",
@@ -7790,7 +7793,7 @@ A list of AllAnalytes Analytes for use in interoperability.
 
 * ULID: `01FSXQ2SC9SH6S8MGTR9TTP8BH`
 * Scientific Name: `m-cymene`
-* Common Names: `m-isopropyltoluene`
+* Common Names: `m-cymene, m-isopropyltoluene`
 * Category: `terpene`
 * CAS RN: `535-77-3`
 
@@ -7799,6 +7802,7 @@ A list of AllAnalytes Analytes for use in interoperability.
     "ulid": "01FSXQ2SC9SH6S8MGTR9TTP8BH",
     "scientific_name": "m-cymene",
     "common_names": [
+        "m-cymene",
         "m-isopropyltoluene"
     ],
     "category": "terpene",
