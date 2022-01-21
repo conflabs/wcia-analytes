@@ -3154,6 +3154,127 @@
     "cas_rn": null
   },
   {
+    "ulid": "01FSXQ2SC9S6TT3CAJ5EAX173W",
+    "scientific_name": "alpha-farnesene",
+    "common_names": [
+      "trans-alpha-farnesene",
+      "a-farnesene"
+    ],
+    "category": "terpene",
+    "cas_rn": "502-61-4"
+  },
+  {
+    "ulid":  "01FSXQ2SC9Q3EWN1AM0DQ7VJRX",
+    "scientific_name": "beta-farnesene",
+    "common_names":  [
+      "trans-beta-farnesene",
+      "b-farnesene"
+    ],
+    "category":  "terpene",
+    "cas_rn": "18794-84-8"
+  },
+  {
+    "ulid":  "01FSXQ2SC9SA0HGGDFJQEN84X9",
+    "scientific_name": "piperitone",
+    "common_names":  [
+      "piperitone"
+    ],
+    "category":  "terpene",
+    "cas_rn": "89-81-6"
+  },
+  {
+    "ulid":  "01FSXQ2SC9TP360G2GZ6VWQ1V9",
+    "scientific_name": "carvone",
+    "common_names":  [
+      "carvone"
+    ],
+    "category":  "terpene",
+    "cas_rn": "2244-16-8"
+  },
+  {
+    "ulid": "01FSXQ2SC90J2YJSPD1Z2XR070",
+    "scientific_name": "sabinene hydrate",
+    "common_names": [
+      "4-thujanol",
+      "sabinene hydrate"
+    ],
+    "category": "terpene",
+    "cas_rn": "546-79-2"
+  },
+  {
+    "ulid":  "01FSXQ2SC90MRBSSTKPWNTG3YG",
+    "scientific_name": "o-cymene",
+    "common_names":  [
+      "o-isopropyltoluene"
+    ],
+    "category":  "terpene",
+    "cas_rn":  "527-84-4"
+  },
+  {
+    "ulid":  "01FSXQ2SC9B3SH9E4SSEPVSC21",
+    "scientific_name": "menthone",
+    "common_names":  [
+      "menthone"
+    ],
+    "category":  "terpene",
+    "cas_rn":  "89-80-5"
+  },
+  {
+    "ulid":  "01FSXQ2SC9SH6S8MGTR9TTP8BH",
+    "scientific_name": "m-cymene",
+    "common_names":  [
+      "m-isopropyltoluene"
+    ],
+    "category":  "terpene",
+    "cas_rn":  "535-77-3"
+  },
+  {
+    "ulid":  "01FSXQ2SC9GPQKJBDM3WYG7FRX",
+    "scientific_name": "isobornyl acetate",
+    "common_names":  [
+      "isobornyl acetate"
+    ],
+    "category":  "terpene",
+    "cas_rn":  "125-12-2"
+  },
+  {
+    "ulid":  "01FSXQ2SC91J8Y264DY8JVBJPW",
+    "scientific_name": "safranal",
+    "common_names":  [
+      "safranal"
+    ],
+    "category":  "terpene",
+    "cas_rn":  "116-26-7"
+  },
+  {
+    "ulid":  "01FSXQ2SC91WWQC93YW74CWC10",
+    "scientific_name": "citral",
+    "common_names":  [
+      "citral"
+    ],
+    "category":  "terpene",
+    "cas_rn":  "5392-40-5"
+  },
+  {
+    "ulid":  "01FSXQ2SC9VKQAZ6AWRBHYBTBB",
+    "scientific_name": "carvacrol",
+    "common_names":  [
+      "carvacrol"
+    ],
+    "category":  "terpene",
+    "cas_rn":  "499-75-2"
+  },
+  {
+    "ulid":  "01FSXQ2SC9QWYYPXMVQJ4AXCE6",
+    "scientific_name": "alpha-thujone",
+    "common_names":  [
+      "alpha-thujone",
+      "a-thujone"
+    ],
+    "category":  "terpene",
+    "cas_rn":  "546-80-5"
+  },
+  {
     "ulid": "01FSJKX3CJMXVD6SJ5WGMT77WD",
     "scientific_name": "total monoterpenes",
     "common_names": [
