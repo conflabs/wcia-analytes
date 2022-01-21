@@ -1121,6 +1121,15 @@
     "cas_rn": "168316-95-8"
   },
   {
+    "ulid": "01FQFG9EJC2Z0EFM33WDMPDEW9",
+    "scientific_name": "spinosad d",
+    "common_names": [
+      "spinosad d"
+    ],
+    "category": "pesticide",
+    "cas_rn": "131929-63-0"
+  },
+  {
     "ulid": "018NY6XC0007FM2S2X7DK713M0",
     "scientific_name": "propargite",
     "common_names": [
@@ -1691,7 +1700,8 @@
     "ulid": "018NY6XC00LMWKXB3PQ2STF5RS",
     "scientific_name": "permethrin trans-1",
     "common_names": [
-      "permethrin trans-1"
+      "permethrin trans-1",
+      "trans-permethrin"
     ],
     "category": "pesticide",
     "cas_rn": "51877-74-8"
@@ -2586,9 +2596,11 @@
   },
   {
     "ulid": "018NY6XC00LMKW46MMS466FK9F",
-    "scientific_name": "bisabolene",
+    "scientific_name": "alpha-bisabolene",
     "common_names": [
-      "bisabolene"
+      "bisabolene",
+      "alpha-bisabolene",
+      "a-bisabolene"
     ],
     "category": "terpene",
     "cas_rn": "17627-44-0"
