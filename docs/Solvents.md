@@ -840,3 +840,26 @@ A list of Solvents Analytes for use in interoperability.
 }
 ```
 
+----------------------------------------
+
+## 1,4-epoxybutane
+
+* ULID: `01FSWJF1C0TGZ76H3GMDQMW39F`
+* Scientific Name: `1,4-epoxybutane`
+* Common Names: `tetrahydrofuran, oxolane`
+* Category: `solvent`
+* CAS RN: `109-99-9`
+
+```json
+{
+    "ulid": "01FSWJF1C0TGZ76H3GMDQMW39F",
+    "scientific_name": "1,4-epoxybutane",
+    "common_names": [
+        "tetrahydrofuran",
+        "oxolane"
+    ],
+    "category": "solvent",
+    "cas_rn": "109-99-9"
+}
+```
+

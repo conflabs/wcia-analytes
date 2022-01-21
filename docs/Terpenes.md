@@ -1630,3 +1630,293 @@ A list of Terpenes Analytes for use in interoperability.
 }
 ```
 
+----------------------------------------
+
+## Alpha-farnesene
+
+* ULID: `01FSXQ2SC9S6TT3CAJ5EAX173W`
+* Scientific Name: `alpha-farnesene`
+* Common Names: `trans-alpha-farnesene, a-farnesene`
+* Category: `terpene`
+* CAS RN: `502-61-4`
+
+```json
+{
+    "ulid": "01FSXQ2SC9S6TT3CAJ5EAX173W",
+    "scientific_name": "alpha-farnesene",
+    "common_names": [
+        "trans-alpha-farnesene",
+        "a-farnesene"
+    ],
+    "category": "terpene",
+    "cas_rn": "502-61-4"
+}
+```
+
+----------------------------------------
+
+## Beta-farnesene
+
+* ULID: `01FSXQ2SC9Q3EWN1AM0DQ7VJRX`
+* Scientific Name: `beta-farnesene`
+* Common Names: `trans-beta-farnesene, b-farnesene`
+* Category: `terpene`
+* CAS RN: `18794-84-8`
+
+```json
+{
+    "ulid": "01FSXQ2SC9Q3EWN1AM0DQ7VJRX",
+    "scientific_name": "beta-farnesene",
+    "common_names": [
+        "trans-beta-farnesene",
+        "b-farnesene"
+    ],
+    "category": "terpene",
+    "cas_rn": "18794-84-8"
+}
+```
+
+----------------------------------------
+
+## Piperitone
+
+* ULID: `01FSXQ2SC9SA0HGGDFJQEN84X9`
+* Scientific Name: `piperitone`
+* Common Names: `piperitone`
+* Category: `terpene`
+* CAS RN: `89-81-6`
+
+```json
+{
+    "ulid": "01FSXQ2SC9SA0HGGDFJQEN84X9",
+    "scientific_name": "piperitone",
+    "common_names": [
+        "piperitone"
+    ],
+    "category": "terpene",
+    "cas_rn": "89-81-6"
+}
+```
+
+----------------------------------------
+
+## Carvone
+
+* ULID: `01FSXQ2SC9TP360G2GZ6VWQ1V9`
+* Scientific Name: `carvone`
+* Common Names: `carvone`
+* Category: `terpene`
+* CAS RN: `2244-16-8`
+
+```json
+{
+    "ulid": "01FSXQ2SC9TP360G2GZ6VWQ1V9",
+    "scientific_name": "carvone",
+    "common_names": [
+        "carvone"
+    ],
+    "category": "terpene",
+    "cas_rn": "2244-16-8"
+}
+```
+
+----------------------------------------
+
+## Sabinene Hydrate
+
+* ULID: `01FSXQ2SC90J2YJSPD1Z2XR070`
+* Scientific Name: `sabinene hydrate`
+* Common Names: `4-thujanol, sabinene hydrate`
+* Category: `terpene`
+* CAS RN: `546-79-2`
+
+```json
+{
+    "ulid": "01FSXQ2SC90J2YJSPD1Z2XR070",
+    "scientific_name": "sabinene hydrate",
+    "common_names": [
+        "4-thujanol",
+        "sabinene hydrate"
+    ],
+    "category": "terpene",
+    "cas_rn": "546-79-2"
+}
+```
+
+----------------------------------------
+
+## O-cymene
+
+* ULID: `01FSXQ2SC90MRBSSTKPWNTG3YG`
+* Scientific Name: `o-cymene`
+* Common Names: `o-isopropyltoluene`
+* Category: `terpene`
+* CAS RN: `527-84-4`
+
+```json
+{
+    "ulid": "01FSXQ2SC90MRBSSTKPWNTG3YG",
+    "scientific_name": "o-cymene",
+    "common_names": [
+        "o-isopropyltoluene"
+    ],
+    "category": "terpene",
+    "cas_rn": "527-84-4"
+}
+```
+
+----------------------------------------
+
+## Menthone
+
+* ULID: `01FSXQ2SC9B3SH9E4SSEPVSC21`
+* Scientific Name: `menthone`
+* Common Names: `menthone`
+* Category: `terpene`
+* CAS RN: `89-80-5`
+
+```json
+{
+    "ulid": "01FSXQ2SC9B3SH9E4SSEPVSC21",
+    "scientific_name": "menthone",
+    "common_names": [
+        "menthone"
+    ],
+    "category": "terpene",
+    "cas_rn": "89-80-5"
+}
+```
+
+----------------------------------------
+
+## M-cymene
+
+* ULID: `01FSXQ2SC9SH6S8MGTR9TTP8BH`
+* Scientific Name: `m-cymene`
+* Common Names: `m-isopropyltoluene`
+* Category: `terpene`
+* CAS RN: `535-77-3`
+
+```json
+{
+    "ulid": "01FSXQ2SC9SH6S8MGTR9TTP8BH",
+    "scientific_name": "m-cymene",
+    "common_names": [
+        "m-isopropyltoluene"
+    ],
+    "category": "terpene",
+    "cas_rn": "535-77-3"
+}
+```
+
+----------------------------------------
+
+## Isobornyl Acetate
+
+* ULID: `01FSXQ2SC9GPQKJBDM3WYG7FRX`
+* Scientific Name: `isobornyl acetate`
+* Common Names: `isobornyl acetate`
+* Category: `terpene`
+* CAS RN: `125-12-2`
+
+```json
+{
+    "ulid": "01FSXQ2SC9GPQKJBDM3WYG7FRX",
+    "scientific_name": "isobornyl acetate",
+    "common_names": [
+        "isobornyl acetate"
+    ],
+    "category": "terpene",
+    "cas_rn": "125-12-2"
+}
+```
+
+----------------------------------------
+
+## Safranal
+
+* ULID: `01FSXQ2SC91J8Y264DY8JVBJPW`
+* Scientific Name: `safranal`
+* Common Names: `safranal`
+* Category: `terpene`
+* CAS RN: `116-26-7`
+
+```json
+{
+    "ulid": "01FSXQ2SC91J8Y264DY8JVBJPW",
+    "scientific_name": "safranal",
+    "common_names": [
+        "safranal"
+    ],
+    "category": "terpene",
+    "cas_rn": "116-26-7"
+}
+```
+
+----------------------------------------
+
+## Citral
+
+* ULID: `01FSXQ2SC91WWQC93YW74CWC10`
+* Scientific Name: `citral`
+* Common Names: `citral`
+* Category: `terpene`
+* CAS RN: `5392-40-5`
+
+```json
+{
+    "ulid": "01FSXQ2SC91WWQC93YW74CWC10",
+    "scientific_name": "citral",
+    "common_names": [
+        "citral"
+    ],
+    "category": "terpene",
+    "cas_rn": "5392-40-5"
+}
+```
+
+----------------------------------------
+
+## Carvacrol
+
+* ULID: `01FSXQ2SC9VKQAZ6AWRBHYBTBB`
+* Scientific Name: `carvacrol`
+* Common Names: `carvacrol`
+* Category: `terpene`
+* CAS RN: `499-75-2`
+
+```json
+{
+    "ulid": "01FSXQ2SC9VKQAZ6AWRBHYBTBB",
+    "scientific_name": "carvacrol",
+    "common_names": [
+        "carvacrol"
+    ],
+    "category": "terpene",
+    "cas_rn": "499-75-2"
+}
+```
+
+----------------------------------------
+
+## Alpha-thujone
+
+* ULID: `01FSXQ2SC9QWYYPXMVQJ4AXCE6`
+* Scientific Name: `alpha-thujone`
+* Common Names: `alpha-thujone, a-thujone`
+* Category: `terpene`
+* CAS RN: `546-80-5`
+
+```json
+{
+    "ulid": "01FSXQ2SC9QWYYPXMVQJ4AXCE6",
+    "scientific_name": "alpha-thujone",
+    "common_names": [
+        "alpha-thujone",
+        "a-thujone"
+    ],
+    "category": "terpene",
+    "cas_rn": "546-80-5"
+}
+```
+

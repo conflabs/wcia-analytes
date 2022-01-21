@@ -28,7 +28,7 @@ A list of PesticideTotals Analytes for use in interoperability.
 
 ## Total Permethrins
 
-* ULID: `01FRK0CC1G0SMZT4RW3WR8QB9V`
+* ULID: `018NY6XC00LM3ZJH23WAKV7JEB`
 * Scientific Name: `total permethrins`
 * Common Names: `total permethrins, permethrins`
 * Category: `pesticide`
@@ -36,7 +36,7 @@ A list of PesticideTotals Analytes for use in interoperability.
 
 ```json
 {
-    "ulid": "01FRK0CC1G0SMZT4RW3WR8QB9V",
+    "ulid": "018NY6XC00LM3ZJH23WAKV7JEB",
     "scientific_name": "total permethrins",
     "common_names": [
         "total permethrins",

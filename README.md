@@ -3,7 +3,7 @@ A collection of analyte names and identifiers, standardized for use in interoper
 
 ----------------------------------------
 
-# Version 0.9.8
+# Version 0.9.9
 
 ## Table of Contents
 
