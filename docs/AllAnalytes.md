@@ -2685,6 +2685,28 @@ A list of AllAnalytes Analytes for use in interoperability.
 
 ----------------------------------------
 
+## Spinosad D
+
+* ULID: `01FQFG9EJC2Z0EFM33WDMPDEW9`
+* Scientific Name: `spinosad d`
+* Common Names: `spinosad d`
+* Category: `pesticide`
+* CAS RN: `131929-63-0`
+
+```json
+{
+    "ulid": "01FQFG9EJC2Z0EFM33WDMPDEW9",
+    "scientific_name": "spinosad d",
+    "common_names": [
+        "spinosad d"
+    ],
+    "category": "pesticide",
+    "cas_rn": "131929-63-0"
+}
+```
+
+----------------------------------------
+
 ## Propargite
 
 * ULID: `018NY6XC0007FM2S2X7DK713M0`
@@ -4075,7 +4097,7 @@ A list of AllAnalytes Analytes for use in interoperability.
 
 * ULID: `018NY6XC00LMWKXB3PQ2STF5RS`
 * Scientific Name: `permethrin trans-1`
-* Common Names: `permethrin trans-1`
+* Common Names: `permethrin trans-1, trans-permethrin`
 * Category: `pesticide`
 * CAS RN: `51877-74-8`
 
@@ -4084,7 +4106,8 @@ A list of AllAnalytes Analytes for use in interoperability.
     "ulid": "018NY6XC00LMWKXB3PQ2STF5RS",
     "scientific_name": "permethrin trans-1",
     "common_names": [
-        "permethrin trans-1"
+        "permethrin trans-1",
+        "trans-permethrin"
     ],
     "category": "pesticide",
     "cas_rn": "51877-74-8"
