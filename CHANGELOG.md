@@ -2,6 +2,9 @@
 
 ----------------------------------------
 
+##### v0.9.9 -- New Solvent Analyte, Duplicates Removal
+Removed duplicates of several pesticides. New residual solvent added.
+
 ##### v0.9.8 -- UUID key removed from all objects
 UUIDs removed, and ULIDs retained as primary keys.
 
