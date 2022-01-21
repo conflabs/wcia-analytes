@@ -135,50 +135,6 @@ A list of Pesticides Analytes for use in interoperability.
 
 ----------------------------------------
 
-## Azoxystrobin
-
-* ULID: `018NY6XC00LMK2VVW868567PHD`
-* Scientific Name: `azoxystrobin`
-* Common Names: `azoxystrobin`
-* Category: `pesticide`
-* CAS RN: `131860-33-8`
-
-```json
-{
-    "ulid": "018NY6XC00LMK2VVW868567PHD",
-    "scientific_name": "azoxystrobin",
-    "common_names": [
-        "azoxystrobin"
-    ],
-    "category": "pesticide",
-    "cas_rn": "131860-33-8"
-}
-```
-
-----------------------------------------
-
-## Bifenazate
-
-* ULID: `018NY6XC00LMKCE4E30P3R72SK`
-* Scientific Name: `bifenazate`
-* Common Names: `bifenazate`
-* Category: `pesticide`
-* CAS RN: `149877-41-8`
-
-```json
-{
-    "ulid": "018NY6XC00LMKCE4E30P3R72SK",
-    "scientific_name": "bifenazate",
-    "common_names": [
-        "bifenazate"
-    ],
-    "category": "pesticide",
-    "cas_rn": "149877-41-8"
-}
-```
-
-----------------------------------------
-
 ## Bifenthrin
 
 * ULID: `018NY6XC00LMPH4K88KC1PKJVJ`
@@ -570,28 +526,6 @@ A list of Pesticides Analytes for use in interoperability.
     ],
     "category": "pesticide",
     "cas_rn": "80844-07-1"
-}
-```
-
-----------------------------------------
-
-## Etoxazole
-
-* ULID: `01FQFG9EJB2ZNCCGA3W92QF34K`
-* Scientific Name: `etoxazole`
-* Common Names: `etoxazole`
-* Category: `pesticide`
-* CAS RN: `153233-91-1`
-
-```json
-{
-    "ulid": "01FQFG9EJB2ZNCCGA3W92QF34K",
-    "scientific_name": "etoxazole",
-    "common_names": [
-        "etoxazole"
-    ],
-    "category": "pesticide",
-    "cas_rn": "153233-91-1"
 }
 ```
 
@@ -1010,28 +944,6 @@ A list of Pesticides Analytes for use in interoperability.
     ],
     "category": "pesticide",
     "cas_rn": "76738-62-0"
-}
-```
-
-----------------------------------------
-
-## Permethrins
-
-* ULID: `018NY6XC00LM3ZJH23WAKV7JEB`
-* Scientific Name: `permethrins`
-* Common Names: `permethrins`
-* Category: `pesticide`
-* CAS RN: `52645-53-1`
-
-```json
-{
-    "ulid": "018NY6XC00LM3ZJH23WAKV7JEB",
-    "scientific_name": "permethrins",
-    "common_names": [
-        "permethrins"
-    ],
-    "category": "pesticide",
-    "cas_rn": "52645-53-1"
 }
 ```
 
@@ -3097,28 +3009,6 @@ A list of Pesticides Analytes for use in interoperability.
     "scientific_name": "methamidophos",
     "common_names": [
         "methamidophos"
-    ],
-    "category": "pesticide",
-    "cas_rn": null
-}
-```
-
-----------------------------------------
-
-## Chlorantraniliprole
-
-* ULID: `018NY6XC00WHBFGHPDBB756NTZ`
-* Scientific Name: `chlorantraniliprole`
-* Common Names: `chlorantraniliprole`
-* Category: `pesticide`
-* CAS RN: ``
-
-```json
-{
-    "ulid": "018NY6XC00WHBFGHPDBB756NTZ",
-    "scientific_name": "chlorantraniliprole",
-    "common_names": [
-        "chlorantraniliprole"
     ],
     "category": "pesticide",
     "cas_rn": null
