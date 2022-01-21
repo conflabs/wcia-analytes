@@ -8,17 +8,18 @@
     ],
     "category": "terpene",
     "cas_rn": ""
-  },{
-  "ulid": "01FSJKX3CJ52X8GBMZ99VWXWXS",
-  "uuid": "a2a4a868-767e-4aa5-8cde-238d856f6092",
-  "scientific_name": "total monoterpenoids",
-  "common_names": [
-    "monoterpenoids",
-    "sum monoterpenoids"
-  ],
-  "category": "terpene",
-  "cas_rn": ""
-},
+  },
+  {
+    "ulid": "01FSJKX3CJ52X8GBMZ99VWXWXS",
+    "uuid": "a2a4a868-767e-4aa5-8cde-238d856f6092",
+    "scientific_name": "total monoterpenoids",
+    "common_names": [
+      "monoterpenoids",
+      "sum monoterpenoids"
+    ],
+    "category": "terpene",
+    "cas_rn": ""
+  },
   {
     "ulid": "01FSJKX3CJ31G3H8S02Y7F4KC6",
     "scientific_name": "total sesquiterpenes",

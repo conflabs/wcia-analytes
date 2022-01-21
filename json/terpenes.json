@@ -670,6 +670,7 @@
     "ulid": "01FSXQ2SC9S6TT3CAJ5EAX173W",
     "scientific_name": "alpha-farnesene",
     "common_names": [
+      "alpha-farnesene",
       "trans-alpha-farnesene",
       "a-farnesene"
     ],
@@ -680,6 +681,7 @@
     "ulid":  "01FSXQ2SC9Q3EWN1AM0DQ7VJRX",
     "scientific_name": "beta-farnesene",
     "common_names":  [
+      "beta-farnesene",
       "trans-beta-farnesene",
       "b-farnesene"
     ],
@@ -718,6 +720,7 @@
     "ulid":  "01FSXQ2SC90MRBSSTKPWNTG3YG",
     "scientific_name": "o-cymene",
     "common_names":  [
+      "o-cymene",
       "o-isopropyltoluene"
     ],
     "category":  "terpene",
@@ -736,6 +739,7 @@
     "ulid":  "01FSXQ2SC9SH6S8MGTR9TTP8BH",
     "scientific_name": "m-cymene",
     "common_names":  [
+      "m-cymene",
       "m-isopropyltoluene"
     ],
     "category":  "terpene",
