@@ -2586,9 +2586,11 @@
   },
   {
     "ulid": "018NY6XC00LMKW46MMS466FK9F",
-    "scientific_name": "bisabolene",
+    "scientific_name": "alpha-bisabolene",
     "common_names": [
-      "bisabolene"
+      "bisabolene",
+      "alpha-bisabolene",
+      "a-bisabolene"
     ],
     "category": "terpene",
     "cas_rn": "17627-44-0"
