@@ -245,20 +245,22 @@ A list of Terpenes Analytes for use in interoperability.
 
 ----------------------------------------
 
-## Bisabolene
+## Alpha-bisabolene
 
 * ULID: `018NY6XC00LMKW46MMS466FK9F`
-* Scientific Name: `bisabolene`
-* Common Names: `bisabolene`
+* Scientific Name: `alpha-bisabolene`
+* Common Names: `bisabolene, alpha-bisabolene, a-bisabolene`
 * Category: `terpene`
 * CAS RN: `17627-44-0`
 
 ```json
 {
     "ulid": "018NY6XC00LMKW46MMS466FK9F",
-    "scientific_name": "bisabolene",
+    "scientific_name": "alpha-bisabolene",
     "common_names": [
-        "bisabolene"
+        "bisabolene",
+        "alpha-bisabolene",
+        "a-bisabolene"
     ],
     "category": "terpene",
     "cas_rn": "17627-44-0"
