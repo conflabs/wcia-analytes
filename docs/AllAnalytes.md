@@ -6883,6 +6883,30 @@ A list of AllAnalytes Analytes for use in interoperability.
 
 ----------------------------------------
 
+## Para-cymenene
+
+* ULID: `01FT6NAFKTAFXDEG7JR7H3Q7CP`
+* Scientific Name: `para-cymenene`
+* Common Names: `para-cymenene, p-cymenene, Benzene, 1-methyl-4-(1-methylethenyl)-`
+* Category: `terpene`
+* CAS RN: `1195-32-0`
+
+```json
+{
+    "ulid": "01FT6NAFKTAFXDEG7JR7H3Q7CP",
+    "scientific_name": "para-cymenene",
+    "common_names": [
+        "para-cymenene",
+        "p-cymenene",
+        "Benzene, 1-methyl-4-(1-methylethenyl)-"
+    ],
+    "category": "terpene",
+    "cas_rn": "1195-32-0"
+}
+```
+
+----------------------------------------
+
 ## Pseudo-valencene
 
 * ULID: `01FQFG9EJC2Z0EFM33WDMPDEVF`
