@@ -5005,7 +5005,7 @@ A list of AllAnalytes Analytes for use in interoperability.
 
 * ULID: `01EDPTY0KCW89D9P2V7V1GSY8V`
 * Scientific Name: `2,2-dimethyl-butane`
-* Common Names: `2,2-dimethyl-butane`
+* Common Names: `2,2-dimethyl-butane, 2,2-dimethylbutane, butane 2-2-dimethyl`
 * Category: `solvent`
 * CAS RN: `75-83-2`
 
@@ -5014,7 +5014,9 @@ A list of AllAnalytes Analytes for use in interoperability.
     "ulid": "01EDPTY0KCW89D9P2V7V1GSY8V",
     "scientific_name": "2,2-dimethyl-butane",
     "common_names": [
-        "2,2-dimethyl-butane"
+        "2,2-dimethyl-butane",
+        "2,2-dimethylbutane",
+        "butane 2-2-dimethyl"
     ],
     "category": "solvent",
     "cas_rn": "75-83-2"
@@ -5027,7 +5029,7 @@ A list of AllAnalytes Analytes for use in interoperability.
 
 * ULID: `01EDPTY0KCW89D9P2V7V1GSY8V`
 * Scientific Name: `2,3-dimethyl-butane`
-* Common Names: `2,3-dimethyl-butane, butane 2-3-dimethyl`
+* Common Names: `2,3-dimethyl-butane, 2,3-dimethylbutane, butane 2-3-dimethyl`
 * Category: `solvent`
 * CAS RN: `79-29-8`
 
@@ -5037,6 +5039,7 @@ A list of AllAnalytes Analytes for use in interoperability.
     "scientific_name": "2,3-dimethyl-butane",
     "common_names": [
         "2,3-dimethyl-butane",
+        "2,3-dimethylbutane",
         "butane 2-3-dimethyl"
     ],
     "category": "solvent",
@@ -5050,7 +5053,7 @@ A list of AllAnalytes Analytes for use in interoperability.
 
 * ULID: `01FQFG9EJB2ZNCCGA3W92QF32J`
 * Scientific Name: `2-methyl-pentane`
-* Common Names: `2-methyl-pentane`
+* Common Names: `2-methyl-pentane, 2-methylpentane, pentane 2-methyl`
 * Category: `solvent`
 * CAS RN: `107-83-5`
 
@@ -5059,7 +5062,9 @@ A list of AllAnalytes Analytes for use in interoperability.
     "ulid": "01FQFG9EJB2ZNCCGA3W92QF32J",
     "scientific_name": "2-methyl-pentane",
     "common_names": [
-        "2-methyl-pentane"
+        "2-methyl-pentane",
+        "2-methylpentane",
+        "pentane 2-methyl"
     ],
     "category": "solvent",
     "cas_rn": "107-83-5"
@@ -5072,7 +5077,7 @@ A list of AllAnalytes Analytes for use in interoperability.
 
 * ULID: `01EDPVA062JA8HKVJE9SAQDW3X`
 * Scientific Name: `3-methyl-pentane`
-* Common Names: `3-methyl-pentane`
+* Common Names: `3-methyl-pentane, 3-methylpentane, pentane 3-methyl`
 * Category: `solvent`
 * CAS RN: `96-14-0`
 
@@ -5081,7 +5086,9 @@ A list of AllAnalytes Analytes for use in interoperability.
     "ulid": "01EDPVA062JA8HKVJE9SAQDW3X",
     "scientific_name": "3-methyl-pentane",
     "common_names": [
-        "3-methyl-pentane"
+        "3-methyl-pentane",
+        "3-methylpentane",
+        "pentane 3-methyl"
     ],
     "category": "solvent",
     "cas_rn": "96-14-0"
