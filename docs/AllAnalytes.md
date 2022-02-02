@@ -5023,6 +5023,29 @@ A list of AllAnalytes Analytes for use in interoperability.
 
 ----------------------------------------
 
+## 2,3-dimethyl-butane
+
+* ULID: `01EDPTY0KCW89D9P2V7V1GSY8V`
+* Scientific Name: `2,3-dimethyl-butane`
+* Common Names: `2,3-dimethyl-butane, butane 2-3-dimethyl`
+* Category: `solvent`
+* CAS RN: `79-29-8`
+
+```json
+{
+    "ulid": "01EDPTY0KCW89D9P2V7V1GSY8V",
+    "scientific_name": "2,3-dimethyl-butane",
+    "common_names": [
+        "2,3-dimethyl-butane",
+        "butane 2-3-dimethyl"
+    ],
+    "category": "solvent",
+    "cas_rn": "79-29-8"
+}
+```
+
+----------------------------------------
+
 ## 2-methyl-pentane
 
 * ULID: `01FQFG9EJB2ZNCCGA3W92QF32J`

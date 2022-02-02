@@ -9,6 +9,16 @@
     "cas_rn": "75-83-2"
   },
   {
+    "ulid": "01EDPTY0KCW89D9P2V7V1GSY8V",
+    "scientific_name": "2,3-dimethyl-butane",
+    "common_names": [
+      "2,3-dimethyl-butane",
+      "butane 2-3-dimethyl"
+    ],
+    "category": "solvent",
+    "cas_rn": "79-29-8"
+  },
+  {
     "ulid": "01FQFG9EJB2ZNCCGA3W92QF32J",
     "scientific_name": "2-methyl-pentane",
     "common_names": [
