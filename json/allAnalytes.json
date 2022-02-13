@@ -3,7 +3,8 @@
     "ulid": "018NY6XC00LM50KG4SS3BDPAGX",
     "scientific_name": "cannabichromene",
     "common_names": [
-      "cbc"
+      "cbc",
+      "cannabichromene"
     ],
     "category": "cannabinoid",
     "cas_rn": "20675-51-8"
@@ -12,7 +13,8 @@
     "ulid": "018NY6XC00LMQKS6HXP2KFY91E",
     "scientific_name": "cannabicitran",
     "common_names": [
-      "cbt"
+      "cbt",
+      "cannabicitran"
     ],
     "category": "cannabinoid",
     "cas_rn": "31508-71-1"
@@ -21,7 +23,8 @@
     "ulid": "018NY6XC00LMK7KHD3HPW0Y90N",
     "scientific_name": "cannabidiol",
     "common_names": [
-      "cbd"
+      "cbd",
+      "cannabidiol"
     ],
     "category": "cannabinoid",
     "cas_rn": "13956-29-1"
@@ -30,7 +33,8 @@
     "ulid": "018NY6XC00LMENDHEH2Y32X903",
     "scientific_name": "cannabidiolic acid",
     "common_names": [
-      "cbda"
+      "cbda",
+      "cannabidiolic acid"
     ],
     "category": "cannabinoid",
     "cas_rn": "1244-58-2"
@@ -39,7 +43,8 @@
     "ulid": "018NY6XC00LMZGPEH1Z4VY04RJ",
     "scientific_name": "cannabidivarin",
     "common_names": [
-      "cbdv"
+      "cbdv",
+      "cannabidivarin"
     ],
     "category": "cannabinoid",
     "cas_rn": "24274-48-4"
@@ -48,7 +53,8 @@
     "ulid": "018NY6XC00M27M46SED0ZZCSQZ",
     "scientific_name": "cannabidivarinic acid",
     "common_names": [
-      "cbdva"
+      "cbdva",
+      "cannabidivarinic acid"
     ],
     "category": "cannabinoid",
     "cas_rn": "31932-13-5"
@@ -57,7 +63,8 @@
     "ulid": "018NY6XC00LMXRFMR5NJ35ZBAX",
     "scientific_name": "cannabigerol",
     "common_names": [
-      "cbg"
+      "cbg",
+      "cannabigerol"
     ],
     "category": "cannabinoid",
     "cas_rn": "25654-31-3"
@@ -66,7 +73,8 @@
     "ulid": "018NY6XC00LMAKFJY80QDMWF7F",
     "scientific_name": "cannabigerolic acid",
     "common_names": [
-      "cbga"
+      "cbga",
+      "cannabigerolic acid"
     ],
     "category": "cannabinoid",
     "cas_rn": "25555-57-1"
@@ -75,7 +83,8 @@
     "ulid": "018NY6XC00LM3W3G1ERAF2QEF5",
     "scientific_name": "cannabinol",
     "common_names": [
-      "cbn"
+      "cbn",
+      "cannabinol"
     ],
     "category": "cannabinoid",
     "cas_rn": "521-35-7"
@@ -85,6 +94,7 @@
     "scientific_name": "delta(8)-tetrahydrocannabinol",
     "common_names": [
       "d8-thc",
+      "delta(8)-tetrahydrocannabinol",
       "delta-8-tetrahydrocannabinol"
     ],
     "category": "cannabinoid",
@@ -95,6 +105,7 @@
     "scientific_name": "delta(8)-tetrahydrocannabivarin",
     "common_names": [
       "d8-thcv",
+      "delta(8)-tetrahydrocannabivarin",
       "delta-8-tetrahydrocannabivarin",
       "propyl-delta(8)-tetrahydrocannabinol"
     ],
@@ -107,7 +118,8 @@
     "common_names": [
       "thc",
       "d9-thc",
-      "delta(9)-tetrahydrocannabinol"
+      "delta(9)-tetrahydrocannabinol",
+      "delta-9-tetrahydrocannabinol"
     ],
     "category": "cannabinoid",
     "cas_rn": "1972-08-3"
@@ -118,6 +130,7 @@
     "common_names": [
       "thcv",
       "d9-thcv",
+      "delta(9)-tetrahydrocannabivarin",
       "delta-9-tetrahydrocannabivarin"
     ],
     "category": "cannabinoid",
@@ -129,6 +142,7 @@
     "common_names": [
       "thca",
       "d9-thca",
+      "delta(9)-tetrahydrocannabinolic acid",
       "delta-9-tetrahydrocannabinolic acid"
     ],
     "category": "cannabinoid",
@@ -140,6 +154,7 @@
     "common_names": [
       "thcva",
       "d9-thcva",
+      "delta(9)-tetrahydrocannabivarinic acid",
       "delta-9-tetrahydrocannabivarinic acid"
     ],
     "category": "cannabinoid",
@@ -149,43 +164,48 @@
     "ulid": "018NY6XC002WFCED62VNTDAJBB",
     "scientific_name": "cannabinolic acid",
     "common_names": [
-      "cbna"
+      "cbna",
+      "cannabinolic acid"
     ],
     "category": "cannabinoid",
-    "cas_rn": null
+    "cas_rn": "2808-39-1"
   },
   {
     "ulid": "018NY6XC00LM74YZAGG90X06MC",
     "scientific_name": "cannabichromenic acid",
     "common_names": [
-      "cbca"
+      "cbca",
+      "cannabichromenic acid"
     ],
     "category": "cannabinoid",
-    "cas_rn": null
+    "cas_rn": "185505-15-1"
   },
   {
     "ulid": "018NY6XC00LMDGYF2W1G9T0W9C",
     "scientific_name": "cannabielsoin",
     "common_names": [
-      "cbe"
+      "cbe",
+      "cannabielsoin"
     ],
     "category": "cannabinoid",
-    "cas_rn": null
+    "cas_rn": "52025-76-0"
   },
   {
     "ulid": "018NY6XC00LMETFEEFJT0JAKNE",
     "scientific_name": "cannabigerovarin",
     "common_names": [
-      "cbgv"
+      "cbgv",
+      "cannabigerovarin"
     ],
     "category": "cannabinoid",
-    "cas_rn": null
+    "cas_rn": "55824-11-8"
   },
   {
     "ulid": "018NY6XC00LMT10GKMBED4KZWK",
     "scientific_name": "cannabichromevarin",
     "common_names": [
-      "cbcv"
+      "cbcv",
+      "cannabichromevarin"
     ],
     "category": "cannabinoid",
     "cas_rn": null
@@ -194,19 +214,71 @@
     "ulid": "018NY6XC00LMZZ776J7YTKR49R",
     "scientific_name": "cannabicyclol",
     "common_names": [
-      "cbl"
+      "cbl",
+      "cannabicyclol"
     ],
     "category": "cannabinoid",
-    "cas_rn": null
+    "cas_rn": "21366-63-2"
   },
   {
     "ulid": "018NY6XC00T2ZJXXZA3HHXW6N3",
     "scientific_name": "cannabicyclolic acid",
     "common_names": [
-      "cbla"
+      "cbla",
+      "cannabicyclolic acid"
     ],
     "category": "cannabinoid",
-    "cas_rn": null
+    "cas_rn": "40524-99-0"
+  },
+  {
+    "ulid": "01FVT5GQ3WMS4HVHR3510R9G72",
+    "scientific_name": "cannabinodiol",
+    "common_names": [
+      "cbnd",
+      "cannabinodiol"
+    ],
+    "category": "cannabinoid",
+    "cas_rn": "39624-81-2"
+  },
+  {
+    "ulid": "01FVT5GQ3W3550WN3H2CCKZHA6",
+    "scientific_name": "cannabichromeorcin",
+    "common_names": [
+      "cbco",
+      "cannabichromeorcin"
+    ],
+    "category": "cannabinoid",
+    "cas_rn": "55824-09-4"
+  },
+  {
+    "ulid": "01FVT5GQ3W4W6XXJHNYA0M3JAQ",
+    "scientific_name": "delta(9)-tetrahydrocannabibutol",
+    "common_names": [
+      "thcb",
+      "delta(9)-tetrahydrocannabibutol",
+      "delta-9-tetrahydrocannabibutol"
+    ],
+    "category": "cannabinoid",
+    "cas_rn": "60008-00-6"
+  },
+  {
+    "ulid": "01FVT5GQ3WNMT06RF79N6QJ8DZ",
+    "scientific_name": "cannabidiphorol",
+    "common_names": [
+      "cbdp",
+      "cannabidiphorol"
+    ],
+    "category": "cannabinoid",
+    "cas_rn": "55824-13-0"
+  },
+  {
+    "ulid": "01FVT5GQ3WTB0GFVPFM9TFM9Y7",
+    "scientific_name": "delta(9)-tetrahydrocannabiphorol",
+    "common_names": [
+      "thcp"
+    ],
+    "category": "cannabinoid",
+    "cas_rn": "54763-99-4"
   },
   {
     "ulid": "01FRK0CC1BK6EVEN4SQ128XG32",
@@ -328,16 +400,17 @@
     ],
     "category": "foreign matter",
     "cas_rn": null
-  },{
-  "ulid": "018NY6XC00LM4E4T6EPA7WPHDK",
-  "scientific_name": "arsenic",
-  "common_names": [
-    "as",
-    "arsenic"
-  ],
-  "category": "metalloid",
-  "cas_rn": "7440-38-2"
-},
+  },
+  {
+    "ulid": "018NY6XC00LM4E4T6EPA7WPHDK",
+    "scientific_name": "arsenic",
+    "common_names": [
+      "as",
+      "arsenic"
+    ],
+    "category": "metalloid",
+    "cas_rn": "7440-38-2"
+  },
   {
     "ulid": "018NY6XC00LMGNGNEW1XMNRS8S",
     "scientific_name": "cadmium",
@@ -585,60 +658,6 @@
       "aspergillus niger"
     ],
     "category": "microbe",
-    "cas_rn": null
-  },
-  {
-    "ulid": "01EDPTAXEXNAN89RM5AN0VVTP3",
-    "scientific_name": "aflatoxin b1",
-    "common_names": [
-      "aflatoxin b1"
-    ],
-    "category": "mycotoxin",
-    "cas_rn": "1162-65-8"
-  },
-  {
-    "ulid": "01EDPTB0J14D79E5FDVRVM290N",
-    "scientific_name": "aflatoxin b2",
-    "common_names": [
-      "aflatoxin b2"
-    ],
-    "category": "mycotoxin",
-    "cas_rn": "7220-81-7"
-  },
-  {
-    "ulid": "01EDPTB1FYFSFB0NXEFCRF5E72",
-    "scientific_name": "aflatoxin g1",
-    "common_names": [
-      "aflatoxin g1"
-    ],
-    "category": "mycotoxin",
-    "cas_rn": "1165-39-5"
-  },
-  {
-    "ulid": "01EDPTB5B0PPN4WPYRMZD09BWY",
-    "scientific_name": "aflatoxin g2",
-    "common_names": [
-      "aflatoxin g2"
-    ],
-    "category": "mycotoxin",
-    "cas_rn": "7241-98-7"
-  },
-  {
-    "ulid": "018NY6XC00LMK15566W1G0ZH5X",
-    "scientific_name": "ochratoxin a",
-    "common_names": [
-      "ochratoxin a"
-    ],
-    "category": "mycotoxin",
-    "cas_rn": "303-47-9"
-  },
-  {
-    "ulid": "018NY6XC00LMR9PB7SNBP97DAS",
-    "scientific_name": "aflatoxin",
-    "common_names": [
-      "aflatoxin"
-    ],
-    "category": "mycotoxin",
     "cas_rn": null
   },
   {
@@ -2098,7 +2117,7 @@
     "scientific_name": "2-methyl-pentane",
     "common_names": [
       "2-methyl-pentane",
-      "2-methylpentane",
+      "2-methyl-pentane",
       "pentane 2-methyl"
     ],
     "category": "solvent",
